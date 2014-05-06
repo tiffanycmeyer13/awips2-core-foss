@@ -2,24 +2,23 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Springframework Plug-in
 Bundle-SymbolicName: org.springframework
-Bundle-Version: 3.1.4
+Bundle-Version: 3.2.8
 Bundle-RequiredExecutionEnvironment: JavaSE-1.6
 Bundle-ClassPath: .,
- org.springframework.aop-3.1.4.RELEASE.jar,
- org.springframework.beans-3.1.4.RELEASE.jar,
- org.springframework.context-3.1.4.RELEASE.jar,
- org.springframework.context.support-3.1.4.RELEASE.jar,
- org.springframework.core-3.1.4.RELEASE.jar,
- org.springframework.jdbc-3.1.4.RELEASE.jar,
- org.springframework.jms-3.1.4.RELEASE.jar,
- org.springframework.orm-3.1.4.RELEASE.jar,
- org.springframework.test-3.1.4.RELEASE.jar,
- org.springframework.transaction-3.1.4.RELEASE.jar,
- org.springframework.web-3.1.4.RELEASE.jar,
- org.springframework.asm-3.1.4.RELEASE.jar,
  com.springsource.org.aopalliance-1.0.0.jar,
- org.springframework.expression-3.1.4.RELEASE.jar,
- antlr-2.7.7.jar
+ antlr-2.7.7.jar,
+ spring-aop-3.2.8.RELEASE.jar,
+ spring-beans-3.2.8.RELEASE.jar,
+ spring-context-3.2.8.RELEASE.jar,
+ spring-context-support-3.2.8.RELEASE.jar,
+ spring-core-3.2.8.RELEASE.jar,
+ spring-expression-3.2.8.RELEASE.jar,
+ spring-jdbc-3.2.8.RELEASE.jar,
+ spring-jms-3.2.8.RELEASE.jar,
+ spring-orm-3.2.8.RELEASE.jar,
+ spring-test-3.2.8.RELEASE.jar,
+ spring-tx-3.2.8.RELEASE.jar,
+ spring-web-3.2.8.RELEASE.jar
 Export-Package: org.aopalliance.aop,
  org.springframework.aop,
  org.springframework.aop.aspectj,
