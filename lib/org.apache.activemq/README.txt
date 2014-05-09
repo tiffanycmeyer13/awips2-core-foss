@@ -1,0 +1,2 @@
+Between versions 5.3 and 5.9, activemq split the core jar into broker, client and openwire-legacy jars. 
+These require geronimo for the JMS API and hawtbuf for buffer IO utilities. AlertViz requires stomp at runtime.
