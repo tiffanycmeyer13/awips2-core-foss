@@ -40,6 +40,4 @@ Require-Bundle: org.apache.commons.beanutils,
  org.apache.commons.collections,
  org.apache.commons.lang
 Bundle-Vendor: Raytheon-bundled OSS
-Edex-Deploy: velocity-1.7.jar, 
- velocity-tools-generic-2.0.jar
 Bundle-RequiredExecutionEnvironment: JavaSE-1.6
