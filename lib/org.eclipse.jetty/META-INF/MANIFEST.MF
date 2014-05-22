@@ -5,11 +5,6 @@ Bundle-SymbolicName: org.eclipse.jetty
 Bundle-Version: 7.6.14.v20131031
 Bundle-RequiredExecutionEnvironment: JavaSE-1.6
 Export-Package: javax.el,
- javax.servlet,
- javax.servlet.http,
- javax.servlet.jsp,
- javax.servlet.jsp.el,
- javax.servlet.jsp.tagext,
  org.eclipse.jetty.client,
  org.eclipse.jetty.client.security,
  org.eclipse.jetty.client.webdav,
@@ -62,6 +57,6 @@ Bundle-ClassPath: jetty-client-7.6.14.v20131031.jar,
  jetty-util-7.6.14.v20131031.jar,
  jetty-webapp-7.6.14.v20131031.jar,
  jetty-xml-7.6.14.v20131031.jar,
- servlet-api-2.5.jar,
  javax.el-2.1.0.v201105211819.jar,
  javax.servlet.jsp-2.1.0.v201105211820.jar
+Require-Bundle: javax.servlet;bundle-version="3.0.0"
