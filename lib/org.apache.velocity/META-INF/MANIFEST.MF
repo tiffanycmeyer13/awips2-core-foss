@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: Velocity Plug-in
 Bundle-SymbolicName: org.apache.velocity
 Bundle-Version: 1.7.0
-Eclipse-BuddyPolicy: ext, registered
+Eclipse-BuddyPolicy: registered
 Bundle-ClassPath: velocity-tools-generic-2.0.jar,
  velocity-1.7.jar,
  oro-2.0.8.jar
@@ -40,4 +40,4 @@ Require-Bundle: org.apache.commons.beanutils,
  org.apache.commons.collections,
  org.apache.commons.lang
 Bundle-Vendor: Raytheon-bundled OSS
-Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
