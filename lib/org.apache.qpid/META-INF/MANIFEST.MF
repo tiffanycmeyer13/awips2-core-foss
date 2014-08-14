@@ -5,8 +5,7 @@ Bundle-SymbolicName: org.apache.qpid
 Bundle-Version: 0.18.0
 Require-Bundle: javax.jms;bundle-version="1.0.0",
  org.slf4j
-Bundle-RequiredExecutionEnvironment: JavaSE-1.6
-Eclipse-BuddyPolicy: registered, ext, global
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 Bundle-ClassPath: qpid-client-0.18.jar,
  qpid-common-0.18.jar
 Export-Package: org.apache.qpid,
