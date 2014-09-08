@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry exported="true" kind="lib" path="httpclient-4.3.5.jar"/>
+	<classpathentry exported="true" kind="lib" path="httpclient-4.3.5.jar" sourcepath="httpcomponents-client-4.3.5-src.zip"/>
 	<classpathentry exported="true" kind="lib" path="httpclient-cache-4.3.5.jar"/>
-	<classpathentry exported="true" kind="lib" path="httpcore-4.3.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="httpcore-4.3.2.jar" sourcepath="httpcomponents-client-4.3.5-src.zip"/>
 	<classpathentry exported="true" kind="lib" path="httpmime-4.3.5.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
