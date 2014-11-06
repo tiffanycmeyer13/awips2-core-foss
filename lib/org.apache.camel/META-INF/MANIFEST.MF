@@ -14,8 +14,7 @@ Bundle-ClassPath: .,
  camel-spring-2.13.2.jar,
  camel-ftp-2.13.2.jar
 Require-Bundle: org.springframework;bundle-version="3.1.4",
- org.apache.commons.management;bundle-version="1.0.0",
- org.apache.commons.net;bundle-version="3.3.0"
+ org.apache.commons.management;bundle-version="1.0.0"
 Export-Package: org.apache.camel,
  org.apache.camel.api.management,
  org.apache.camel.api.management.mbean,
