@@ -2,12 +2,12 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Qpid
 Bundle-SymbolicName: org.apache.qpid
-Bundle-Version: 0.18.0
+Bundle-Version: 0.30.0
 Require-Bundle: javax.jms;bundle-version="1.0.0",
  org.slf4j
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
-Bundle-ClassPath: qpid-client-0.18.jar,
- qpid-common-0.18.jar
+Bundle-ClassPath: qpid-client-0.30.jar,
+ qpid-common-0.30.jar
 Export-Package: org.apache.qpid,
  org.apache.qpid.api,
  org.apache.qpid.client,
@@ -21,6 +21,7 @@ Export-Package: org.apache.qpid,
  org.apache.qpid.client.security.amqplain,
  org.apache.qpid.client.security.anonymous,
  org.apache.qpid.client.security.crammd5hashed,
+ org.apache.qpid.client.security.scram,
  org.apache.qpid.client.state,
  org.apache.qpid.client.state.listener,
  org.apache.qpid.client.transport,
@@ -58,6 +59,7 @@ Export-Package: org.apache.qpid,
  org.apache.qpid.transport.network.security.sasl,
  org.apache.qpid.transport.network.security.ssl,
  org.apache.qpid.transport.util,
+ org.apache.qpid.typedmessage,
  org.apache.qpid.url,
  org.apache.qpid.util
 
