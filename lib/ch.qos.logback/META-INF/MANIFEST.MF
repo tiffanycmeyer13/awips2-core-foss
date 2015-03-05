@@ -2,10 +2,10 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Logback
 Bundle-SymbolicName: ch.qos.logback
-Bundle-Version: 1.0.13
+Bundle-Version: 1.1.2
 Eclipse-BuddyPolicy: registered
-Bundle-ClassPath: logback-classic-1.0.13.jar,
- logback-core-1.0.13.jar
+Bundle-ClassPath: logback-classic-1.1.2.jar,
+ logback-core-1.1.2.jar
 Bundle-Vendor: QOS
 Export-Package: ch.qos.logback.classic,
  ch.qos.logback.classic.boolex,
@@ -64,4 +64,4 @@ Export-Package: ch.qos.logback.classic,
  ch.qos.logback.core.subst,
  ch.qos.logback.core.util,
  org.slf4j.impl
-Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
