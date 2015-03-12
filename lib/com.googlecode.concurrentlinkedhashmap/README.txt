@@ -1,1 +1,0 @@
-Concurrent linked hash map that can be used as a cache. Added for Omaha #3443, retrieved from https://code.google.com/p/concurrentlinkedhashmap/
