@@ -7,4 +7,4 @@ Bundle-Vendor: Raytheon-bundled OSS
 Bundle-ActivationPolicy: lazy
 Bundle-ClassPath: jep.jar
 Export-Package: jep
-Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
