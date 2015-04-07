@@ -2,12 +2,12 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Qpid
 Bundle-SymbolicName: org.apache.qpid
-Bundle-Version: 0.30.0
+Bundle-Version: 0.32.0
 Require-Bundle: javax.jms;bundle-version="1.0.0",
  org.slf4j
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
-Bundle-ClassPath: qpid-client-0.30.jar,
- qpid-common-0.30.jar
+Bundle-ClassPath: qpid-client-0.32.jar,
+ qpid-common-0.32.jar
 Export-Package: org.apache.qpid,
  org.apache.qpid.api,
  org.apache.qpid.client,
