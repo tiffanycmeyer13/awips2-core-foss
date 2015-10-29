@@ -2,8 +2,8 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Apache Commons Lang Plug-in
 Bundle-SymbolicName: org.apache.commons.lang
-Bundle-Version: 2.3.0
-Bundle-ClassPath: commons-lang-2.3.jar
+Bundle-Version: 2.6.0
+Bundle-ClassPath: commons-lang-2.6.jar
 Bundle-Vendor: Raytheon-bundled OSS
 Export-Package: org.apache.commons.lang,
  org.apache.commons.lang.builder,
@@ -11,6 +11,7 @@ Export-Package: org.apache.commons.lang,
  org.apache.commons.lang.exception,
  org.apache.commons.lang.math,
  org.apache.commons.lang.mutable,
+ org.apache.commons.lang.reflect,
  org.apache.commons.lang.text,
  org.apache.commons.lang.time
 Bundle-RequiredExecutionEnvironment: JavaSE-1.6
