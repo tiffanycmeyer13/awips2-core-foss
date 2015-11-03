@@ -1,8 +1,0 @@
-The camel-core-2.14.3.jar has been modified.
-
-The
-org/apache/camel/com/googlecode/concurrentlinkedhashmap/  has been replaced with the one from camel 2.15
-
-Camel includes concurrentlinkedhashmap not as a normal dependency but instead grabs it at build time with maven and renames it. So it's part of the Camel core and Camel will not use an external upgraded version.
-
-Replacing concurrentlinkedhashmap in Camel this way provides a lower risk method of upgrading than by upgrading the entirety of Camel.
