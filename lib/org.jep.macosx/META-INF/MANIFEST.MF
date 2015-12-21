@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Native Jep Library OS X
+Bundle-SymbolicName: org.jep.macosx
+Bundle-Version: 2.3.0
+Bundle-Vendor: Unidata bundled OSS
+Bundle-ClassPath: libjep.jnilib
+Fragment-Host: org.jep;bundle-version="2.3.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Eclipse-PlatformFilter: (& (osgi.os=macosx) (osgi.ws=cocoa) (osgi.arch=x86_64))
