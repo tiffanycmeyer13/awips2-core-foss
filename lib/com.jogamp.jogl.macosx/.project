@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>javax.media.opengl.linux64</name>
+	<name>com.jogamp.jogl.macosx</name>
 	<comment></comment>
 	<projects>
 	</projects>
