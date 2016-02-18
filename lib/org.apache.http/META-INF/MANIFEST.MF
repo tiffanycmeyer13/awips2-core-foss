@@ -2,11 +2,11 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Httpclient Plug-in
 Bundle-SymbolicName: org.apache.http
-Bundle-Version: 4.3.5
-Bundle-ClassPath: httpclient-4.3.5.jar,
- httpclient-cache-4.3.5.jar,
- httpcore-4.3.2.jar,
- httpmime-4.3.5.jar
+Bundle-Version: 4.3.6
+Bundle-ClassPath: httpclient-4.3.6.jar,
+ httpclient-cache-4.3.6.jar,
+ httpcore-4.3.3.jar,
+ httpmime-4.3.6.jar
 Require-Bundle: org.apache.commons.codec,
  org.slf4j;bundle-version="1.7.5"
 Bundle-Vendor: Raytheon-bundled OSS
