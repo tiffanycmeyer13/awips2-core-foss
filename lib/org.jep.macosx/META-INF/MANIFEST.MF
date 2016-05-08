@@ -6,5 +6,5 @@ Bundle-Version: 2.3.0
 Bundle-Vendor: Unidata bundled OSS
 Bundle-ClassPath: libjep.jnilib
 Fragment-Host: org.jep;bundle-version="2.3.0"
-Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 Eclipse-PlatformFilter: (& (osgi.os=macosx) (osgi.ws=cocoa) (osgi.arch=x86_64))

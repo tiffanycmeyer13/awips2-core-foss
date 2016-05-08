@@ -30,4 +30,4 @@ Export-Package: org.codehaus.jackson,
  org.codehaus.jackson.type,
  org.codehaus.jackson.util,
  org.codehaus.jackson.xc
-Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
