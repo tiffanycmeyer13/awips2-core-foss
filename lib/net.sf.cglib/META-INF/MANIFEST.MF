@@ -15,4 +15,4 @@ Export-Package: net.sf.cglib.asm,
  net.sf.cglib.transform.hook,
  net.sf.cglib.transform.impl,
  net.sf.cglib.util
-Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
