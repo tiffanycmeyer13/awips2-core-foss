@@ -2,11 +2,11 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Slf4j Plug-in
 Bundle-SymbolicName: org.slf4j
-Bundle-Version: 1.7.12
-Bundle-ClassPath: slf4j-api-1.7.12.jar,
- jcl-over-slf4j-1.7.12.jar,
- log4j-over-slf4j-1.7.12.jar,
- jul-to-slf4j-1.7.12.jar
+Bundle-Version: 1.7.21
+Bundle-ClassPath: jcl-over-slf4j-1.7.21.jar,
+ jul-to-slf4j-1.7.21.jar,
+ log4j-over-slf4j-1.7.21.jar,
+ slf4j-api-1.7.21.jar
 Export-Package: org.apache.commons.logging,
  org.apache.commons.logging.impl,
  org.apache.log4j,
@@ -14,6 +14,6 @@ Export-Package: org.apache.commons.logging,
  org.slf4j.bridge,
  org.slf4j.helpers,
  org.slf4j.spi
-Require-Bundle: ch.qos.logback;bundle-version="1.0.13"
+Require-Bundle: ch.qos.logback;bundle-version="1.1.7"
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 Eclipse-RegisterBuddy: ch.qos.logback
