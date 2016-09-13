@@ -2,10 +2,10 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Jackson
 Bundle-SymbolicName: org.codehaus.jackson
-Bundle-Version: 1.7.3
-Bundle-ClassPath: jackson-core-asl-1.7.3.jar,
- jackson-mapper-asl-1.7.3.jar,
- jackson-xc-1.7.3.jar
+Bundle-Version: 1.9.13
+Bundle-ClassPath: jackson-core-asl-1.9.13.jar,
+ jackson-mapper-asl-1.9.13.jar,
+ jackson-xc-1.9.13.jar
 Export-Package: org.codehaus.jackson,
  org.codehaus.jackson.annotate,
  org.codehaus.jackson.impl,
