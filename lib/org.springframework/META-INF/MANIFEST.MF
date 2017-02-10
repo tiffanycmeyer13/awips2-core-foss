@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: Springframework Plug-in
 Bundle-SymbolicName: org.springframework
 Bundle-Version: 4.2.4
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Bundle-ClassPath: .,
  com.springsource.org.aopalliance-1.0.0.jar,
  spring-aop-4.2.4.RELEASE.jar,

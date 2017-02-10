@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: Camel Plug-in
 Bundle-SymbolicName: org.apache.camel
 Bundle-Version: 2.16.2
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Bundle-ClassPath: .,
  camel-core-2.16.2.jar,
  camel-ftp-2.16.2.jar,

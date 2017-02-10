@@ -30,4 +30,4 @@ Export-Package: org.quartz,
  org.quartz.utils.counter,
  org.quartz.utils.counter.sampled,
  org.quartz.xml
-Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8

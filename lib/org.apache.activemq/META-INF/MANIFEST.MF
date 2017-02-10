@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: Activemq Plug-in
 Bundle-SymbolicName: org.apache.activemq
 Bundle-Version: 5.13.0
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Bundle-ClassPath: .,
  activemq-broker-5.13.0.jar,
  activemq-client-5.13.0.jar,

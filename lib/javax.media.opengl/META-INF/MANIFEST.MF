@@ -24,4 +24,4 @@ Export-Package: com.sun.gluegen.runtime,
  javax.media.opengl,
  javax.media.opengl.glu
 Bundle-Vendor: Raytheon-bundled OSS
-Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8

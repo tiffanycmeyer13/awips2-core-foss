@@ -64,4 +64,4 @@ Export-Package: ch.qos.logback.classic,
  ch.qos.logback.core.subst,
  ch.qos.logback.core.util,
  org.slf4j.impl
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
