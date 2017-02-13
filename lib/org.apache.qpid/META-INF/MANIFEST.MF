@@ -2,14 +2,14 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Qpid
 Bundle-SymbolicName: org.apache.qpid
-Bundle-Version: 6.0.5
+Bundle-Version: 0.32.0
 Require-Bundle: javax.jms;bundle-version="1.0.0",
  org.slf4j
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
-Bundle-ClassPath: qpid-client-6.0.5.jar,
- qpid-common-6.0.5.jar
+Bundle-ClassPath: qpid-client-0.32.jar,
+ qpid-common-0.32.jar
 Export-Package: org.apache.qpid,
- org.apache.qpid.bytebuffer,
+ org.apache.qpid.api,
  org.apache.qpid.client,
  org.apache.qpid.client.failover,
  org.apache.qpid.client.filter,
@@ -21,7 +21,6 @@ Export-Package: org.apache.qpid,
  org.apache.qpid.client.security.amqplain,
  org.apache.qpid.client.security.anonymous,
  org.apache.qpid.client.security.crammd5hashed,
- org.apache.qpid.client.security.oauth2,
  org.apache.qpid.client.security.scram,
  org.apache.qpid.client.state,
  org.apache.qpid.client.state.listener,
@@ -41,11 +40,12 @@ Export-Package: org.apache.qpid,
  org.apache.qpid.jndi,
  org.apache.qpid.messaging,
  org.apache.qpid.messaging.util,
+ org.apache.qpid.nclient,
+ org.apache.qpid.nclient.util,
  org.apache.qpid.pool,
  org.apache.qpid.properties,
  org.apache.qpid.protocol,
  org.apache.qpid.ssl,
- org.apache.qpid.streams,
  org.apache.qpid.thread,
  org.apache.qpid.transport,
  org.apache.qpid.transport.codec,
