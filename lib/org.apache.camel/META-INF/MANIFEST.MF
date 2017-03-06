@@ -2,17 +2,17 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Camel Plug-in
 Bundle-SymbolicName: org.apache.camel
-Bundle-Version: 2.17.3
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-Version: 2.18.2
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Bundle-ClassPath: .,
- camel-core-2.17.3.jar,
- camel-http4-2.17.3.jar,
- camel-http-common-2.17.3.jar,
- camel-jetty9-2.17.3.jar,
- camel-jetty-common-2.17.3.jar,
- camel-jms-2.17.3.jar,
- camel-quartz-2.17.3.jar,
- camel-spring-2.17.3.jar
+ camel-core-2.18.2.jar,
+ camel-http4-2.18.2.jar,
+ camel-http-common-2.18.2.jar,
+ camel-jetty9-2.18.2.jar,
+ camel-jetty-common-2.18.2.jar,
+ camel-jms-2.18.2.jar,
+ camel-quartz-2.18.2.jar,
+ camel-spring-2.18.2.jar
 Require-Bundle: org.springframework,
  org.apache.commons.management
 Export-Package: org.apache.camel,
@@ -20,7 +20,7 @@ Export-Package: org.apache.camel,
  org.apache.camel.api.management.mbean,
  org.apache.camel.builder,
  org.apache.camel.builder.xml,
- org.apache.camel.com.googlecode.concurrentlinkedhashmap,
+ org.apache.camel.com.github.benmanes.caffeine.cache,
  org.apache.camel.component,
  org.apache.camel.component.bean,
  org.apache.camel.component.beanclass,
@@ -58,8 +58,6 @@ Export-Package: org.apache.camel,
  org.apache.camel.converter,
  org.apache.camel.converter.jaxp,
  org.apache.camel.converter.stream,
- org.apache.camel.core.osgi,
- org.apache.camel.core.osgi.utils,
  org.apache.camel.core.xml,
  org.apache.camel.core.xml.util.jsse,
  org.apache.camel.http.common,
@@ -90,7 +88,6 @@ Export-Package: org.apache.camel,
  org.apache.camel.model.language,
  org.apache.camel.model.loadbalancer,
  org.apache.camel.model.rest,
- org.apache.camel.osgi,
  org.apache.camel.processor,
  org.apache.camel.processor.aggregate,
  org.apache.camel.processor.binding,
