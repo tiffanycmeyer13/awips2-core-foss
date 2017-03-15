@@ -13,4 +13,4 @@ Export-Package: org.apache.thrift,
  org.apache.thrift.server,
  org.apache.thrift.transport
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
-Require-Bundle: org.slf4j;bundle-version="1.7.5"
+Require-Bundle: org.slf4j;bundle-version="1.7.21"
