@@ -2,12 +2,12 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Nonoperational Geotools Plug-in
 Bundle-SymbolicName: org.geotools.nonoperational
-Bundle-Version: 10.5
+Bundle-Version: 15.1
 Bundle-ClassPath: gdal.jar,
- gt-imageio-ext-gdal-10.5.jar
+ gt-imageio-ext-gdal-15.1.jar
 Bundle-Vendor: Raytheon-bundled OSS
 Export-Package: org.geotools.coverageio.gdal.aig
-Require-Bundle: org.geotools;bundle-version="10.5"
-Bundle-RequiredExecutionEnvironment: J2SE-1.5
+Require-Bundle: org.geotools;bundle-version="15.1"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Eclipse-BuddyPolicy: registered, ext, global
 Bundle-ActivationPolicy: lazy
