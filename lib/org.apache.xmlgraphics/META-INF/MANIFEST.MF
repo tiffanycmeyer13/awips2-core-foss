@@ -2,9 +2,9 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Xml Graphics
 Bundle-SymbolicName: org.apache.xmlgraphics
-Bundle-Version: 2.0
+Bundle-Version: 2.2
 Bundle-Vendor: Apache
-Bundle-ClassPath: xmlgraphics-commons-2.0.jar
+Bundle-ClassPath: xmlgraphics-commons-2.2.jar
 Export-Package: org.apache.xmlgraphics.fonts,
  org.apache.xmlgraphics.image,
  org.apache.xmlgraphics.image.codec.png,
