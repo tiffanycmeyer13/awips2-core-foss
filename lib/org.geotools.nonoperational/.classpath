@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry exported="true" kind="lib" path="gt-imageio-ext-gdal-16.4.jar" sourcepath="gt-imageio-ext-gdal-16.4-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="gdal-1.8.1.jar"/>
-	<classpathentry exported="true" kind="lib" path="gt-imageio-ext-gdal-15.1.jar" sourcepath="/org.geotools/geotools-source-15.1.zip"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
 	<classpathentry kind="output" path="bin"/>
