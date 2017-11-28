@@ -2,22 +2,22 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Springframework Plug-in
 Bundle-SymbolicName: org.springframework
-Bundle-Version: 4.2.9
+Bundle-Version: 4.3.13
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Bundle-ClassPath: .,
  com.springsource.org.aopalliance-1.0.0.jar,
- spring-aop-4.2.9.RELEASE.jar,
- spring-beans-4.2.9.RELEASE.jar,
- spring-context-4.2.9.RELEASE.jar,
- spring-context-support-4.2.9.RELEASE.jar,
- spring-core-4.2.9.RELEASE.jar,
- spring-expression-4.2.9.RELEASE.jar,
- spring-jdbc-4.2.9.RELEASE.jar,
- spring-jms-4.2.9.RELEASE.jar,
- spring-orm-4.2.9.RELEASE.jar,
- spring-tx-4.2.9.RELEASE.jar,
- spring-web-4.2.9.RELEASE.jar,
- antlr-2.7.7.jar
+ antlr-2.7.7.jar,
+ spring-aop-4.3.13.RELEASE.jar,
+ spring-beans-4.3.13.RELEASE.jar,
+ spring-context-4.3.13.RELEASE.jar,
+ spring-context-support-4.3.13.RELEASE.jar,
+ spring-core-4.3.13.RELEASE.jar,
+ spring-expression-4.3.13.RELEASE.jar,
+ spring-jdbc-4.3.13.RELEASE.jar,
+ spring-jms-4.3.13.RELEASE.jar,
+ spring-orm-4.3.13.RELEASE.jar,
+ spring-tx-4.3.13.RELEASE.jar,
+ spring-web-4.3.13.RELEASE.jar
 Export-Package: org.aopalliance.aop,
  org.springframework.aop,
  org.springframework.aop.aspectj,
@@ -246,4 +246,4 @@ Export-Package: org.aopalliance.aop,
  org.springframework.web.multipart.support,
  org.springframework.web.util
 Require-Bundle: org.quartz;bundle-version="1.8.6",
- org.slf4j;bundle-version="1.7.5"
+ org.slf4j;bundle-version="1.7.25"
