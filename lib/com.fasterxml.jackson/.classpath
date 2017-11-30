@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry exported="true" kind="lib" path="jackson-annotations-2.6.5.jar" sourcepath="jackson-annotations-2.6.5-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jackson-core-2.6.5.jar" sourcepath="jackson-core-2.6.5-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jackson-databind-2.6.5.jar" sourcepath="jackson-databind-2.6.5-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jackson-module-jaxb-annotations-2.6.5.jar" sourcepath="jackson-module-jaxb-annotations-2.6.5-sources.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
 	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry exported="true" kind="lib" path="jackson-annotations-2.8.10.jar" sourcepath="jackson-annotations-2.8.10-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jackson-core-2.8.10.jar" sourcepath="jackson-core-2.8.10-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jackson-databind-2.8.10.jar" sourcepath="jackson-databind-2.8.10-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jackson-module-jaxb-annotations-2.8.10.jar" sourcepath="jackson-module-jaxb-annotations-2.8.10-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
