@@ -2,9 +2,9 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Jep Plug-in
 Bundle-SymbolicName: org.jep
-Bundle-Version: 3.7.0
+Bundle-Version: 3.7.1
 Bundle-Vendor: Raytheon-bundled OSS
 Bundle-ActivationPolicy: lazy
-Bundle-ClassPath: jep-3.7.0.jar
+Bundle-ClassPath: jep-3.7.1.jar
 Export-Package: jep
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
