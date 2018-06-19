@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 1
+Bundle-Name: PNGJ Plug-in
+Bundle-SymbolicName: ar.com.hjg.pngj
+Bundle-Version: 2.1.1
+Bundle-Vendor: Unidata-bundled OSS
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: pngj-2.1.1.jar
+Export-Package: ar.com.hjg.pngj
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
