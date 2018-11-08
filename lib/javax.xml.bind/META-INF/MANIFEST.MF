@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: JAXB Plugin
+Bundle-SymbolicName: javax.xml.bind
+Bundle-Version: 2.3.1
+Bundle-ClassPath: jaxb-api-2.3.1.jar
+Export-Package: javax.xml.bind,
+ javax.xml.bind.annotation,
+ javax.xml.bind.annotation.adapters,
+ javax.xml.bind.helpers
+Bundle-Vendor: Oracle Corporation
+Bundle-RequiredExecutionEnvironment: JavaSE-11
