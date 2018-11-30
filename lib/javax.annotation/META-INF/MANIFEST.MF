@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Java Annotation API  Plug-in
+Bundle-SymbolicName: javax.annotation
+Bundle-Version: 1.3.2
+Bundle-ClassPath: javax.annotation-api-1.3.2.jar
+Export-Package: javax.annotation
+Bundle-RequiredExecutionEnvironment: JavaSE-11
