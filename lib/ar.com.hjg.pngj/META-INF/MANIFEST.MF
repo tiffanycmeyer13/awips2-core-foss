@@ -7,4 +7,4 @@ Bundle-Vendor: Unidata-bundled OSS
 Bundle-ActivationPolicy: lazy
 Bundle-ClassPath: pngj-2.1.1.jar
 Export-Package: ar.com.hjg.pngj
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8

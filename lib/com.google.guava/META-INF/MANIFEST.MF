@@ -6,7 +6,7 @@ Bundle-Version: 18.0.0
 Bundle-Vendor: GOOGLE
 Bundle-ActivationPolicy: lazy
 Bundle-ClassPath: guava-18.0.jar
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Export-Package: com.google.common.annotations,
  com.google.common.base,
  com.google.common.base.internal,

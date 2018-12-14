@@ -5,7 +5,7 @@ Bundle-SymbolicName: org.w3c.xml.ext
 Bundle-Version: 1.3.04
 Bundle-Vendor: World Wide Web Consortium
 Bundle-ClassPath: xml-apis-ext-1.3.04.jar
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Export-Package: org.w3c.css.sac,
  org.w3c.css.sac.helpers,
  org.w3c.dom.smil,

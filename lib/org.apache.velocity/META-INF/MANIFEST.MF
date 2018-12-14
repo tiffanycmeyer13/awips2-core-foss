@@ -40,4 +40,4 @@ Require-Bundle: org.apache.commons.beanutils,
  org.apache.commons.collections,
  org.apache.commons.lang
 Bundle-Vendor: Raytheon-bundled OSS
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8

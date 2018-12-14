@@ -21,4 +21,4 @@ Export-Package: javassist,
  javassist.tools.web,
  javassist.util,
  javassist.util.proxy
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
