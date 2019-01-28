@@ -2,8 +2,8 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Batik Plug-in
 Bundle-SymbolicName: org.apache.batik
-Bundle-Version: 1.9
-Bundle-ClassPath: batik-all-1.9.jar
+Bundle-Version: 1.10
+Bundle-ClassPath: batik-all-1.10.jar
 Bundle-Vendor: Raytheon-bundled OSS
 Require-Bundle: org.apache.commons.beanutils,
  org.apache.commons.collections,
@@ -11,8 +11,8 @@ Require-Bundle: org.apache.commons.beanutils,
  org.apache.commons.lang,
  org.apache.xerces;bundle-version="2.9.1",
  org.w3c.xml.ext;bundle-version="1.3.4",
- org.apache.xmlgraphics;bundle-version="2.0.0"
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+ org.apache.xmlgraphics;bundle-version="2.3.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-11
 Export-Package: org.apache.batik,
  org.apache.batik.anim,
  org.apache.batik.anim.dom,
