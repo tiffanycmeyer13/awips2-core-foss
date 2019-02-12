@@ -2,8 +2,8 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Dom4j Plug-in
 Bundle-SymbolicName: org.dom4j
-Bundle-Version: 1.6.1
-Bundle-ClassPath: dom4j-1.6.1.jar,
+Bundle-Version: 2.1.1
+Bundle-ClassPath: dom4j-2.1.1.jar,
  jaxen-1.1.4.jar,
  .
 Export-Package: org.dom4j,
