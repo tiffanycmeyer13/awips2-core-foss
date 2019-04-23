@@ -3,10 +3,23 @@ Bundle-ManifestVersion: 2
 Bundle-Name: Measure Plug-in
 Bundle-SymbolicName: javax.measure
 Bundle-Version: 1.0.0
-Bundle-ClassPath: jsr-275-1.0-beta-2.jar
+Bundle-ClassPath: si-quantity-0.7.1.jar,
+ si-units-java8-0.7.1.jar,
+ systems-common-java8-0.7.2.jar,
+ unit-api-1.0.jar,
+ uom-lib-common-1.0.2.jar,
+ uom-se-1.0.8.jar
 Export-Package: javax.measure,
- javax.measure.converter,
+ javax.measure.format,
  javax.measure.quantity,
- javax.measure.unit
+ javax.measure.spi,
+ si.uom,
+ si.uom.quantity,
+ systems.uom.common,
+ tec.uom.se,
+ tec.uom.se.format,
+ tec.uom.se.function,
+ tec.uom.se.quantity,
+ tec.uom.se.unit
 Bundle-Vendor: Raytheon-bundled OSS
-Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
