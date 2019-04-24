@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path=""/>
-	<classpathentry exported="true" kind="lib" path="javassist-3.18.1-GA.jar"/>
+	<classpathentry exported="true" kind="lib" path="javassist-3.24.0-GA.jar" sourcepath="javassist-3.24.0-GA-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

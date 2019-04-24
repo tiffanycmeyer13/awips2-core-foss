@@ -2,8 +2,8 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Ehcache Plug-in
 Bundle-SymbolicName: net.sf.ehcache
-Bundle-Version: 2.4.3
-Bundle-ClassPath: ehcache-core-2.4.3.jar
+Bundle-Version: 2.10.6
+Bundle-ClassPath: ehcache-2.10.6.jar
 Export-Package: net.sf.ehcache,
  net.sf.ehcache.bootstrap,
  net.sf.ehcache.cluster,
@@ -16,7 +16,6 @@ Export-Package: net.sf.ehcache,
  net.sf.ehcache.constructs.blocking,
  net.sf.ehcache.constructs.nonstop,
  net.sf.ehcache.constructs.nonstop.concurrency,
- net.sf.ehcache.constructs.nonstop.store,
  net.sf.ehcache.constructs.nonstop.util,
  net.sf.ehcache.constructs.web,
  net.sf.ehcache.distribution,
@@ -40,12 +39,9 @@ Export-Package: net.sf.ehcache,
  net.sf.ehcache.search.expression,
  net.sf.ehcache.search.impl,
  net.sf.ehcache.statistics,
- net.sf.ehcache.statistics.sampled,
  net.sf.ehcache.store,
  net.sf.ehcache.store.chm,
  net.sf.ehcache.store.compound,
- net.sf.ehcache.store.compound.factories,
- net.sf.ehcache.store.compound.impl,
  net.sf.ehcache.terracotta,
  net.sf.ehcache.transaction,
  net.sf.ehcache.transaction.local,
@@ -61,4 +57,4 @@ Export-Package: net.sf.ehcache,
  net.sf.ehcache.writer.writebehind,
  net.sf.ehcache.writer.writebehind.operations,
  net.sf.ehcache.writer.writethrough
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
