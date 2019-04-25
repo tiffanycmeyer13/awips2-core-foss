@@ -17,7 +17,9 @@ Bundle-ClassPath: .,
  spring-jms-5.1.5.RELEASE.jar,
  spring-orm-5.1.5.RELEASE.jar,
  spring-tx-5.1.5.RELEASE.jar,
- spring-web-5.1.5.RELEASE.jar
+ spring-web-5.1.5.RELEASE.jar,
+ spring-jcl-5.1.5.RELEASE.jar,
+ spring-messaging-5.1.5.RELEASE.jar
 Export-Package: org.aopalliance.aop,
  org.springframework.aop,
  org.springframework.aop.aspectj,
@@ -234,4 +236,3 @@ Export-Package: org.aopalliance.aop,
  org.springframework.web.util
 Require-Bundle: org.slf4j;bundle-version="1.7.25",
  org.quartz;bundle-version="2.3.0"
-
