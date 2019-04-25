@@ -2,10 +2,8 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Quartz
 Bundle-SymbolicName: org.quartz
-Bundle-Version: 2.3.0
-Bundle-ClassPath: HikariCP-2.7.9.jar,
- quartz-2.3.0.jar,
- quartz-jobs-2.3.0.jar
+Bundle-Version: 1.8.6
+Bundle-ClassPath: quartz-1.8.6.jar
 Bundle-Vendor: Terracotta
 Export-Package: org.quartz,
  org.quartz.core,
@@ -32,5 +30,4 @@ Export-Package: org.quartz,
  org.quartz.utils.counter,
  org.quartz.utils.counter.sampled,
  org.quartz.xml
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
-
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
