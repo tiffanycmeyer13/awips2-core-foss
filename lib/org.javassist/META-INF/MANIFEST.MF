@@ -2,8 +2,8 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Javassist
 Bundle-SymbolicName: org.javassist
-Bundle-Version: 3.18.1.GA
-Bundle-ClassPath: javassist-3.18.1-GA.jar
+Bundle-Version: 3.24.0.GA
+Bundle-ClassPath: javassist-3.24.0-GA.jar
 Export-Package: javassist,
  javassist.bytecode,
  javassist.bytecode.analysis,
@@ -21,4 +21,4 @@ Export-Package: javassist,
  javassist.tools.web,
  javassist.util,
  javassist.util.proxy
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8

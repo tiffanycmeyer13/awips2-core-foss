@@ -1,0 +1,37 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: JAXB Runtime
+Bundle-SymbolicName: com.sun.xml.bind
+Bundle-Version: 2.3.2
+Bundle-ClassPath: FastInfoset-1.2.15.jar,
+ istack-commons-runtime-3.0.7.jar,
+ jaxb-runtime-2.3.1.jar,
+ stax-ex-1.8.jar,
+ txw2-2.3.1.jar
+Bundle-Vendor: Oracle Corporation
+Export-Package: com.sun.xml.bind,
+ com.sun.xml.bind.annotation,
+ com.sun.xml.bind.api,
+ com.sun.xml.bind.api.impl,
+ com.sun.xml.bind.marshaller,
+ com.sun.xml.bind.unmarshaller,
+ com.sun.xml.bind.util,
+ com.sun.xml.bind.v2,
+ com.sun.xml.bind.v2.bytecode,
+ com.sun.xml.bind.v2.model.annotation,
+ com.sun.xml.bind.v2.model.core,
+ com.sun.xml.bind.v2.model.impl,
+ com.sun.xml.bind.v2.model.nav,
+ com.sun.xml.bind.v2.model.runtime,
+ com.sun.xml.bind.v2.model.util,
+ com.sun.xml.bind.v2.runtime,
+ com.sun.xml.bind.v2.runtime.output,
+ com.sun.xml.bind.v2.runtime.property,
+ com.sun.xml.bind.v2.runtime.reflect,
+ com.sun.xml.bind.v2.runtime.reflect.opt,
+ com.sun.xml.bind.v2.runtime.unmarshaller,
+ com.sun.xml.bind.v2.schemagen,
+ com.sun.xml.bind.v2.schemagen.episode,
+ com.sun.xml.bind.v2.schemagen.xmlschema,
+ com.sun.xml.bind.v2.util
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
