@@ -349,8 +349,8 @@ Export-Package:
  org.opengis.util
 Require-Bundle: com.fasterxml.jackson,
  com.google.guava,
- com.sun.xml.bind,
  javax.measure,
+ javax.xml.bind,
  org.apache.commons.collections,
  org.apache.commons.io,
  org.apache.commons.lang3,
