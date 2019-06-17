@@ -350,6 +350,7 @@ Export-Package:
 Require-Bundle: com.fasterxml.jackson,
  com.google.guava,
  javax.measure,
+ javax.media.jai,
  javax.xml.bind,
  org.apache.commons.collections,
  org.apache.commons.io,
@@ -359,6 +360,6 @@ Require-Bundle: com.fasterxml.jackson,
  org.jdom2,
  org.postgres,
  org.slf4j;bundle-version="1.7.25"
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-RequiredExecutionEnvironment: JavaSE-11
 Eclipse-BuddyPolicy: registered, ext, global
 Bundle-ActivationPolicy: lazy
