@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry exported="true" kind="lib" path="spring-aop-4.3.18.RELEASE.jar" sourcepath="spring-aop-4.3.18.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-beans-4.3.18.RELEASE.jar" sourcepath="spring-beans-4.3.18.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-context-4.3.18.RELEASE.jar" sourcepath="spring-context-4.3.18.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-context-support-4.3.18.RELEASE.jar" sourcepath="spring-context-support-4.3.18.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-core-4.3.18.RELEASE.jar" sourcepath="spring-core-4.3.18.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-expression-4.3.18.RELEASE.jar" sourcepath="spring-expression-4.3.18.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-jdbc-4.3.18.RELEASE.jar" sourcepath="spring-jdbc-4.3.18.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-jms-4.3.18.RELEASE.jar" sourcepath="spring-jms-4.3.18.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-orm-4.3.18.RELEASE.jar" sourcepath="spring-orm-4.3.18.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-tx-4.3.18.RELEASE.jar" sourcepath="spring-tx-4.3.18.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-web-4.3.18.RELEASE.jar" sourcepath="spring-web-4.3.18.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-aop-4.3.19.RELEASE.jar" sourcepath="spring-aop-4.3.19.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-beans-4.3.19.RELEASE.jar" sourcepath="spring-beans-4.3.19.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-context-4.3.19.RELEASE.jar" sourcepath="spring-context-4.3.19.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-context-support-4.3.19.RELEASE.jar" sourcepath="spring-context-support-4.3.19.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-core-4.3.19.RELEASE.jar" sourcepath="spring-core-4.3.19.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-expression-4.3.19.RELEASE.jar" sourcepath="spring-expression-4.3.19.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-jdbc-4.3.19.RELEASE.jar" sourcepath="spring-jdbc-4.3.19.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-jms-4.3.19.RELEASE.jar" sourcepath="spring-jms-4.3.19.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-orm-4.3.19.RELEASE.jar" sourcepath="spring-orm-4.3.19.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-tx-4.3.19.RELEASE.jar" sourcepath="spring-tx-4.3.19.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-web-4.3.19.RELEASE.jar" sourcepath="spring-web-4.3.19.RELEASE-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="antlr-2.7.7.jar"/>
 	<classpathentry exported="true" kind="lib" path="com.springsource.org.aopalliance-1.0.0.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
