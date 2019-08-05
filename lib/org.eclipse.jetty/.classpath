@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry exported="true" kind="lib" path="jetty-client-9.4.11.v20180605.jar" sourcepath="jetty-client-9.4.11.v20180605-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jetty-continuation-9.4.11.v20180605.jar" sourcepath="jetty-continuation-9.4.11.v20180605-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jetty-http-9.4.11.v20180605.jar" sourcepath="jetty-http-9.4.11.v20180605-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jetty-io-9.4.11.v20180605.jar" sourcepath="jetty-io-9.4.11.v20180605-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jetty-jaas-9.4.11.v20180605.jar" sourcepath="jetty-jaas-9.4.11.v20180605-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jetty-jmx-9.4.11.v20180605.jar" sourcepath="jetty-jmx-9.4.11.v20180605-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jetty-plus-9.4.11.v20180605.jar" sourcepath="jetty-plus-9.4.11.v20180605-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jetty-security-9.4.11.v20180605.jar" sourcepath="jetty-security-9.4.11.v20180605-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jetty-server-9.4.11.v20180605.jar" sourcepath="jetty-server-9.4.11.v20180605-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jetty-servlet-9.4.11.v20180605.jar" sourcepath="jetty-servlet-9.4.11.v20180605-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jetty-servlets-9.4.11.v20180605.jar" sourcepath="jetty-servlets-9.4.11.v20180605-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jetty-util-9.4.11.v20180605.jar" sourcepath="jetty-util-9.4.11.v20180605-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jetty-webapp-9.4.11.v20180605.jar" sourcepath="jetty-webapp-9.4.11.v20180605-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jetty-xml-9.4.11.v20180605.jar" sourcepath="jetty-xml-9.4.11.v20180605-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jetty-client-9.4.17.v20190418.jar" sourcepath="jetty-client-9.4.17.v20190418-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jetty-continuation-9.4.17.v20190418.jar" sourcepath="jetty-continuation-9.4.17.v20190418-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jetty-http-9.4.17.v20190418.jar" sourcepath="jetty-http-9.4.17.v20190418-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jetty-io-9.4.17.v20190418.jar" sourcepath="jetty-io-9.4.17.v20190418-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jetty-jaas-9.4.17.v20190418.jar" sourcepath="jetty-jaas-9.4.17.v20190418-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jetty-jmx-9.4.17.v20190418.jar" sourcepath="jetty-jmx-9.4.17.v20190418-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jetty-plus-9.4.17.v20190418.jar" sourcepath="jetty-plus-9.4.17.v20190418-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jetty-security-9.4.17.v20190418.jar" sourcepath="jetty-security-9.4.17.v20190418-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jetty-server-9.4.17.v20190418.jar" sourcepath="jetty-server-9.4.17.v20190418-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jetty-servlet-9.4.17.v20190418.jar" sourcepath="jetty-servlet-9.4.17.v20190418-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jetty-servlets-9.4.17.v20190418.jar" sourcepath="jetty-servlets-9.4.17.v20190418-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jetty-util-9.4.17.v20190418.jar" sourcepath="jetty-util-9.4.17.v20190418-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jetty-webapp-9.4.17.v20190418.jar" sourcepath="jetty-webapp-9.4.17.v20190418-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jetty-xml-9.4.17.v20190418.jar" sourcepath="jetty-xml-9.4.17.v20190418-sources.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/"/>
 	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
 	<classpathentry kind="output" path="bin"/>
