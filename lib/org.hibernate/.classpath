@@ -11,6 +11,6 @@
 	<classpathentry exported="true" kind="lib" path="hibernate-core-5.4.2.Final.jar" sourcepath="hibernate-core-5.4.2.Final-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="hibernate-c3p0-5.4.2.Final.jar" sourcepath="hibernate-c3p0-5.4.2.Final-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="hibernate-ehcache-5.4.2.Final.jar" sourcepath="hibernate-ehcache-5.4.2.Final-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="hibernate-spatial-5.4.2.Final.jar" sourcepath="hibernate-ehcache-5.4.2.Final-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="hibernate-spatial-5.4.2.Final.jar" sourcepath="hibernate-spatial-5.4.2.Final-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
