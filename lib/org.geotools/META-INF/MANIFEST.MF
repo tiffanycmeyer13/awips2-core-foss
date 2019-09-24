@@ -308,6 +308,7 @@ Export-Package:
  org.locationtech.jts.simplify,
  org.locationtech.jts.triangulate,
  org.locationtech.jts.triangulate.quadedge,
+ org.locationtech.jts.util,
  org.opengis.annotation,
  org.opengis.coverage,
  org.opengis.coverage.grid,
