@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Java Web Services (JWS)
+Bundle-SymbolicName: javax.jws
+Bundle-Version: 1.1
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Bundle-ClassPath: javax.jws-api-1.1.jar
+Export-Package: javax.jws,
+ javax.jws.soap

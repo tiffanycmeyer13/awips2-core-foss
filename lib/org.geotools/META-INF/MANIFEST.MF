@@ -308,6 +308,7 @@ Export-Package:
  org.locationtech.jts.simplify,
  org.locationtech.jts.triangulate,
  org.locationtech.jts.triangulate.quadedge,
+ org.locationtech.jts.util,
  org.opengis.annotation,
  org.opengis.coverage,
  org.opengis.coverage.grid,
@@ -349,8 +350,9 @@ Export-Package:
  org.opengis.util
 Require-Bundle: com.fasterxml.jackson,
  com.google.guava,
- com.sun.xml.bind,
  javax.measure,
+ javax.media.jai,
+ javax.xml.bind,
  org.apache.commons.collections,
  org.apache.commons.io,
  org.apache.commons.lang3,
@@ -359,6 +361,6 @@ Require-Bundle: com.fasterxml.jackson,
  org.jdom2,
  org.postgres,
  org.slf4j;bundle-version="1.7.25"
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-RequiredExecutionEnvironment: JavaSE-11
 Eclipse-BuddyPolicy: registered, ext, global
 Bundle-ActivationPolicy: lazy
