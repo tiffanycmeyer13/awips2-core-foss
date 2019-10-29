@@ -10,3 +10,4 @@ Require-Bundle: org.eclipse.draw2d,
  org.eclipse.emf.common.ui
 Bundle-ClassPath: net.sf.swtaddons_0.1.1_bin_src.jar,
  .
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6

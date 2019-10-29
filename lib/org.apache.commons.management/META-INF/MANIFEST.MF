@@ -7,3 +7,4 @@ Bundle-ClassPath: commons-management-1.0.jar
 Export-Package: org.fusesource.commons.management,
  org.fusesource.commons.management.basic,
  org.fusesource.commons.management.noop
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6

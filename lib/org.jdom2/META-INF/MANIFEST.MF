@@ -20,3 +20,5 @@ Export-Package: org.jdom2,
  org.jdom2.xpath,
  org.jdom2.xpath.jaxen,
  org.jdom2.xpath.util
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+
