@@ -38,4 +38,5 @@ Export-Package: org.apache.qpid.jms,
  org.apache.qpid.jms.selector.parser,
  org.apache.qpid.jms.transports,
  org.apache.qpid.jms.transports.netty,
- org.apache.qpid.jms.util
+ org.apache.qpid.jms.util,
+ org.apache.qpid.proton.codec
