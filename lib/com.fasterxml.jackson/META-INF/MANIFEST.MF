@@ -42,3 +42,4 @@ Export-Package: com.fasterxml.jackson.annotation,
  com.fasterxml.jackson.module.jaxb,
  com.fasterxml.jackson.module.jaxb.deser,
  com.fasterxml.jackson.module.jaxb.ser
+Require-Bundle: javax.xml.bind

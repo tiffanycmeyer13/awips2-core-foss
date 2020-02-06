@@ -2,9 +2,12 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Xml Graphics
 Bundle-SymbolicName: org.apache.xmlgraphics
-Bundle-Version: 2.2
+Bundle-Version: 2.3
 Bundle-Vendor: Apache
-Bundle-ClassPath: xmlgraphics-commons-2.2.jar
+Bundle-ClassPath: xmlgraphics-commons-2.3.jar
+Bundle-RequiredExecutionEnvironment: JavaSE-11
+Comment: The version number has been included with the exported package org.apache.xmlgraphics.java2d.color
+ because Eclipse has a specific version requirement for this package.
 Export-Package: org.apache.xmlgraphics.fonts,
  org.apache.xmlgraphics.image,
  org.apache.xmlgraphics.image.codec.png,
@@ -23,7 +26,7 @@ Export-Package: org.apache.xmlgraphics.fonts,
  org.apache.xmlgraphics.image.writer.internal,
  org.apache.xmlgraphics.io,
  org.apache.xmlgraphics.java2d,
- org.apache.xmlgraphics.java2d.color,
+ org.apache.xmlgraphics.java2d.color;version="2.3.0",
  org.apache.xmlgraphics.java2d.color.profile,
  org.apache.xmlgraphics.java2d.ps,
  org.apache.xmlgraphics.ps,

@@ -2,8 +2,8 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Apache Commons Codec Plug-in
 Bundle-SymbolicName: org.apache.commons.codec
-Bundle-Version: 1.10.0
-Bundle-ClassPath: commons-codec-1.10.jar
+Bundle-Version: 1.11.0
+Bundle-ClassPath: commons-codec-1.11.jar
 Export-Package: org.apache.commons.codec,
  org.apache.commons.codec.binary,
  org.apache.commons.codec.digest,
