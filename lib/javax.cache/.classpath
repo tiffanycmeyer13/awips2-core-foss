@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="cache-api-1.0.0.jar" sourcepath="cache-api-1.0.0-sources.jar"/>
+</classpath>

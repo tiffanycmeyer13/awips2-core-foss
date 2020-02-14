@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="ignite-spring-2.7.6.jar" sourcepath="ignite-spring-2.7.6-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="ignite-indexing-2.7.6.jar" sourcepath="ignite-indexing-2.7.6-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="ignite-slf4j-2.7.6.jar" sourcepath="ignite-slf4j-2.7.6-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="ignite-core-2.7.6.jar" sourcepath="ignite-core-2.7.6-sources.jar"/>
+</classpath>

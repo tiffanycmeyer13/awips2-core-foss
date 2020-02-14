@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: H2 Database
+Bundle-SymbolicName: com.h2database
+Bundle-Version: 1.4.197
+Bundle-ClassPath: h2-1.4.197.jar
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8

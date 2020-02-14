@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: JSR107 API
+Bundle-SymbolicName: javax.cache
+Bundle-Version: 1.0.0
+Bundle-ClassPath: cache-api-1.0.0.jar
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Export-Package: javax.cache,
+ javax.cache.annotation,
+ javax.cache.configuration,
+ javax.cache.event,
+ javax.cache.expiry,
+ javax.cache.integration,
+ javax.cache.management,
+ javax.cache.processor,
+ javax.cache.spi
