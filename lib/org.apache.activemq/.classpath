@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry exported="true" kind="lib" path="activemq-broker-5.15.9.jar" sourcepath="activemq-broker-5.15.9-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="activemq-client-5.15.9.jar" sourcepath="activemq-client-5.15.9-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="activemq-openwire-legacy-5.15.9.jar" sourcepath="activemq-openwire-legacy-5.15.9-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="activemq-stomp-5.15.9.jar" sourcepath="activemq-stomp-5.15.9-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="activemq-broker-5.15.12.jar" sourcepath="activemq-broker-5.15.12-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="activemq-client-5.15.12.jar" sourcepath="activemq-client-5.15.12-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="activemq-openwire-legacy-5.15.12.jar" sourcepath="activemq-openwire-legacy-5.15.12-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="activemq-stomp-5.15.12.jar" sourcepath="activemq-stomp-5.15.12-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="geronimo-j2ee-management_1.1_spec-1.0.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="geronimo-jta_1.0.1B_spec-1.0.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="hawtbuf-1.11.jar"/>
