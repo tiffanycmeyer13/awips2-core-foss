@@ -2,8 +2,8 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Postgres
 Bundle-SymbolicName: org.postgres
-Bundle-Version: 42.2.5
-Bundle-ClassPath: postgresql-42.2.5.jar,
+Bundle-Version: 42.2.16
+Bundle-ClassPath: postgresql-42.2.16.jar,
  postgis-jdbc-2.2.2.jar,
  postgis-jdbc-java2d-2.2.2.jar
 Export-Package: org.postgis,
@@ -23,7 +23,6 @@ Export-Package: org.postgis,
  org.postgresql.jdbc2,
  org.postgresql.jdbc2.optional,
  org.postgresql.jdbc3,
- org.postgresql.jre8.sasl,
  org.postgresql.largeobject,
  org.postgresql.osgi,
  org.postgresql.replication,
