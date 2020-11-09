@@ -2,12 +2,12 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Apache Ignite
 Bundle-SymbolicName: org.apache.ignite
-Bundle-Version: 2.7.6
+Bundle-Version: 2.9.0
 Bundle-Vendor: Raytheon-bundled OSS
-Bundle-ClassPath: ignite-core-2.7.6.jar,
- ignite-indexing-2.7.6.jar,
- ignite-slf4j-2.7.6.jar,
- ignite-spring-2.7.6.jar
+Bundle-ClassPath: ignite-indexing-2.9.0.jar,
+ ignite-core-2.9.0.jar,
+ ignite-spring-2.9.0.jar,
+ ignite-slf4j-2.9.0.jar
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Export-Package: org.apache.ignite,
  org.apache.ignite.binary,
@@ -16,7 +16,6 @@ Export-Package: org.apache.ignite,
  org.apache.ignite.cache.affinity.rendezvous,
  org.apache.ignite.cache.eviction,
  org.apache.ignite.cache.eviction.fifo,
- org.apache.ignite.cache.eviction.igfs,
  org.apache.ignite.cache.eviction.lru,
  org.apache.ignite.cache.eviction.sorted,
  org.apache.ignite.cache.query,
@@ -32,12 +31,6 @@ Export-Package: org.apache.ignite,
  org.apache.ignite.configuration,
  org.apache.ignite.events,
  org.apache.ignite.failure,
- org.apache.ignite.hadoop,
- org.apache.ignite.igfs,
- org.apache.ignite.igfs.mapreduce,
- org.apache.ignite.igfs.mapreduce.records,
- org.apache.ignite.igfs.secondary,
- org.apache.ignite.igfs.secondary.local,
  org.apache.ignite.lang,
  org.apache.ignite.lifecycle,
  org.apache.ignite.logger,
