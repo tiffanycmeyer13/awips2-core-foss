@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry exported="true" kind="lib" path="animal-sniffer-annotations-1.17.jar" sourcepath="animal-sniffer-annotations-1.17-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="error_prone_annotations-2.2.0.jar" sourcepath="error_prone_annotations-2.2.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="failureaccess-1.0.jar" sourcepath="failureaccess-1.0-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="guava-27.1-jre.jar" sourcepath="guava-27.1-jre-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="j2objc-annotations-1.1.jar" sourcepath="j2objc-annotations-1.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jsr305-3.0.2.jar" sourcepath="jsr305-3.0.2-sources.jar"/>
 	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
-	<classpathentry kind="lib" path="animal-sniffer-annotations-1.17.jar" sourcepath="animal-sniffer-annotations-1.17-sources.jar"/>
-	<classpathentry kind="lib" path="checker-qual-2.5.2.jar" sourcepath="checker-qual-2.5.2-sources.jar"/>
-	<classpathentry kind="lib" path="error_prone_annotations-2.2.0.jar" sourcepath="error_prone_annotations-2.2.0-sources.jar"/>
-	<classpathentry kind="lib" path="failureaccess-1.0.jar" sourcepath="failureaccess-1.0-sources.jar"/>
-	<classpathentry kind="lib" path="jsr305-3.0.2.jar" sourcepath="jsr305-3.0.2-sources.jar"/>
-	<classpathentry kind="lib" path="j2objc-annotations-1.1.jar" sourcepath="j2objc-annotations-1.1-sources.jar"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+    <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
