@@ -2,10 +2,15 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Google Common (Guava)
 Bundle-SymbolicName: com.google.guava
-Bundle-Version: 24.1.1
+Bundle-Version: 30.0
 Bundle-Vendor: GOOGLE
 Bundle-ActivationPolicy: lazy
-Bundle-ClassPath: guava-24.1.1-jre.jar
+Bundle-ClassPath: checker-qual-3.5.0.jar,
+ error_prone_annotations-2.3.4.jar,
+ failureaccess-1.0.1.jar,
+ guava-30.0-jre.jar,
+ j2objc-annotations-1.3.jar,
+ jsr305-3.0.2.jar
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 Export-Package: com.google.common.annotations,
  com.google.common.base,
