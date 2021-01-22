@@ -7,18 +7,18 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
 	<classpathentry kind="lib" path="antlr-2.7.7.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-aop-5.1.7.RELEASE.jar" sourcepath="spring-aop-5.1.7.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-beans-5.1.7.RELEASE.jar" sourcepath="spring-beans-5.1.7.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-context-5.1.7.RELEASE.jar" sourcepath="spring-context-5.1.7.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-context-support-5.1.7.RELEASE.jar" sourcepath="spring-context-support-5.1.7.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-core-5.1.7.RELEASE.jar" sourcepath="spring-core-5.1.7.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-expression-5.1.7.RELEASE.jar" sourcepath="spring-expression-5.1.7.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-jcl-5.1.7.RELEASE.jar" sourcepath="spring-jcl-5.1.7.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-jdbc-5.1.7.RELEASE.jar" sourcepath="spring-jdbc-5.1.7.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-jms-5.1.7.RELEASE.jar" sourcepath="spring-jms-5.1.7.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-messaging-5.1.7.RELEASE.jar" sourcepath="spring-messaging-5.1.7.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-orm-5.1.7.RELEASE.jar" sourcepath="spring-orm-5.1.7.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-tx-5.1.7.RELEASE.jar" sourcepath="spring-tx-5.1.7.RELEASE-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-web-5.1.7.RELEASE.jar" sourcepath="spring-web-5.1.7.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-aop-5.1.20.RELEASE.jar" sourcepath="spring-aop-5.1.20.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-beans-5.1.20.RELEASE.jar" sourcepath="spring-beans-5.1.20.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-context-5.1.20.RELEASE.jar" sourcepath="spring-context-5.1.20.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-context-support-5.1.20.RELEASE.jar" sourcepath="spring-context-support-5.1.20.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-core-5.1.20.RELEASE.jar" sourcepath="spring-core-5.1.20.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-expression-5.1.20.RELEASE.jar" sourcepath="spring-expression-5.1.20.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-jcl-5.1.20.RELEASE.jar" sourcepath="spring-jcl-5.1.20.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-jdbc-5.1.20.RELEASE.jar" sourcepath="spring-jdbc-5.1.20.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-jms-5.1.20.RELEASE.jar" sourcepath="spring-jms-5.1.20.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-messaging-5.1.20.RELEASE.jar" sourcepath="spring-messaging-5.1.20.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-orm-5.1.20.RELEASE.jar" sourcepath="spring-orm-5.1.20.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-tx-5.1.20.RELEASE.jar" sourcepath="spring-tx-5.1.20.RELEASE-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-web-5.1.20.RELEASE.jar" sourcepath="spring-web-5.1.20.RELEASE-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
