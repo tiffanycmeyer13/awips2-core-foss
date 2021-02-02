@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Eclipse Jetty
 Bundle-SymbolicName: org.eclipse.jetty
-Bundle-Version: 9.4.18.v20190429
+Bundle-Version: 9.4.35.v20201120
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Export-Package: org.eclipse.jetty.client,
  org.eclipse.jetty.client.api,
@@ -30,6 +30,7 @@ Export-Package: org.eclipse.jetty.client,
  org.eclipse.jetty.server.handler.jmx,
  org.eclipse.jetty.server.jmx,
  org.eclipse.jetty.server.nio,
+ org.eclipse.jetty.server.resource,
  org.eclipse.jetty.server.session,
  org.eclipse.jetty.servlet,
  org.eclipse.jetty.servlet.jmx,
@@ -49,18 +50,19 @@ Export-Package: org.eclipse.jetty.client,
  org.eclipse.jetty.util.thread.strategy,
  org.eclipse.jetty.webapp,
  org.eclipse.jetty.xml
-Bundle-ClassPath: jetty-client-9.4.18.v20190429.jar,
- jetty-continuation-9.4.18.v20190429.jar,
- jetty-http-9.4.18.v20190429.jar,
- jetty-io-9.4.18.v20190429.jar,
- jetty-jaas-9.4.18.v20190429.jar,
- jetty-jmx-9.4.18.v20190429.jar,
- jetty-plus-9.4.18.v20190429.jar,
- jetty-security-9.4.18.v20190429.jar,
- jetty-server-9.4.18.v20190429.jar,
- jetty-servlet-9.4.18.v20190429.jar,
- jetty-servlets-9.4.18.v20190429.jar,
- jetty-util-9.4.18.v20190429.jar,
- jetty-webapp-9.4.18.v20190429.jar,
- jetty-xml-9.4.18.v20190429.jar
+Bundle-ClassPath: jetty-client-9.4.35.v20201120.jar,
+ jetty-continuation-9.4.35.v20201120.jar,
+ jetty-http-9.4.35.v20201120.jar,
+ jetty-io-9.4.35.v20201120.jar,
+ jetty-jaas-9.4.35.v20201120.jar,
+ jetty-jmx-9.4.35.v20201120.jar,
+ jetty-plus-9.4.35.v20201120.jar,
+ jetty-security-9.4.35.v20201120.jar,
+ jetty-server-9.4.35.v20201120.jar,
+ jetty-servlet-9.4.35.v20201120.jar,
+ jetty-servlets-9.4.35.v20201120.jar,
+ jetty-util-9.4.35.v20201120.jar,
+ jetty-util-ajax-9.4.35.v20201120.jar,
+ jetty-webapp-9.4.35.v20201120.jar,
+ jetty-xml-9.4.35.v20201120.jar
 Require-Bundle: javax.servlet;bundle-version="3.1.0"
