@@ -2,26 +2,30 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Quartz
 Bundle-SymbolicName: org.quartz
-Bundle-Version: 1.8.6
-Bundle-ClassPath: quartz-1.8.6.jar
+Bundle-Version: 2.3.2
+Bundle-ClassPath: quartz-2.3.2.jar,
+ HikariCP-java7-2.4.13.jar
 Bundle-Vendor: Terracotta
 Export-Package: org.quartz,
+ org.quartz.commonj,
  org.quartz.core,
  org.quartz.core.jmx,
+ org.quartz.ee.jmx.jboss,
  org.quartz.ee.jta,
  org.quartz.ee.servlet,
  org.quartz.helpers,
  org.quartz.impl,
  org.quartz.impl.calendar,
  org.quartz.impl.jdbcjobstore,
- org.quartz.jobs,
- org.quartz.jobs.ee.ejb,
- org.quartz.jobs.ee.jms,
- org.quartz.jobs.ee.jmx,
- org.quartz.jobs.ee.mail,
+ org.quartz.impl.jdbcjobstore.oracle,
+ org.quartz.impl.jdbcjobstore.oracle.weblogic,
+ org.quartz.impl.matchers,
+ org.quartz.impl.triggers,
  org.quartz.listeners,
+ org.quartz.management,
  org.quartz.plugins,
  org.quartz.plugins.history,
+ org.quartz.plugins.interrupt,
  org.quartz.plugins.management,
  org.quartz.plugins.xml,
  org.quartz.simpl,
@@ -29,5 +33,7 @@ Export-Package: org.quartz,
  org.quartz.utils,
  org.quartz.utils.counter,
  org.quartz.utils.counter.sampled,
+ org.quartz.utils.weblogic,
  org.quartz.xml
-Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: com.mchange;bundle-version="0.9.5"
