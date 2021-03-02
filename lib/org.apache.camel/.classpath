@@ -1,14 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry exported="true" kind="lib" path="camel-core-2.25.2.jar" sourcepath="apache-camel-2.24.0-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="camel-http-common-2.25.2.jar" sourcepath="apache-camel-2.24.0-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="camel-http4-2.25.2.jar" sourcepath="apache-camel-2.24.0-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="camel-jetty-common-2.25.2.jar" sourcepath="apache-camel-2.24.0-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="camel-jetty9-2.25.2.jar" sourcepath="apache-camel-2.24.0-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="camel-jms-2.25.2.jar" sourcepath="apache-camel-2.24.0-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="camel-quartz-2.25.2.jar" sourcepath="apache-camel-2.24.0-src.zip"/>
-	<classpathentry exported="true" kind="lib" path="camel-spring-2.25.2.jar" sourcepath="apache-camel-2.24.0-src.zip"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="caffeine-2.8.8.jar" sourcepath="caffeine-2.8.8-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-api-3.7.0.jar" sourcepath="camel-api-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-attachments-3.7.0.jar" sourcepath="camel-attachments-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-base-3.7.0.jar" sourcepath="camel-base-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-base-engine-3.7.0.jar" sourcepath="camel-base-engine-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-bean-3.7.0.jar" sourcepath="camel-bean-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-browse-3.7.0.jar" sourcepath="camel-browse-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-caffeine-lrucache-3.7.0.jar" sourcepath="camel-caffeine-lrucache-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-cloud-3.7.0.jar" sourcepath="camel-cloud-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-cluster-3.7.0.jar" sourcepath="camel-cluster-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-controlbus-3.7.0.jar" sourcepath="camel-controlbus-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-core-3.7.0.jar" sourcepath="camel-core-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-core-engine-3.7.0.jar" sourcepath="camel-core-engine-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-core-languages-3.7.0.jar" sourcepath="camel-core-languages-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-core-model-3.7.0.jar" sourcepath="camel-core-model-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-core-processor-3.7.0.jar" sourcepath="camel-core-processor-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-core-reifier-3.7.0.jar" sourcepath="camel-core-reifier-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-core-xml-3.7.0.jar" sourcepath="camel-core-xml-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-dataformat-3.7.0.jar" sourcepath="camel-dataformat-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-dataset-3.7.0.jar" sourcepath="camel-dataset-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-direct-3.7.0.jar" sourcepath="camel-direct-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-directvm-3.7.0.jar" sourcepath="camel-directvm-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-file-3.7.0.jar" sourcepath="camel-file-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-health-3.7.0.jar" sourcepath="camel-health-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-http-3.7.0.jar" sourcepath="camel-http-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-http-base-3.7.0.jar" sourcepath="camel-http-base-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-http-common-3.7.0.jar" sourcepath="camel-http-common-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-jetty-3.7.0.jar" sourcepath="camel-jetty-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-jetty-common-3.7.0.jar" sourcepath="camel-jetty-common-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-jms-3.7.0.jar" sourcepath="camel-jms-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-language-3.7.0.jar" sourcepath="camel-language-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-log-3.7.0.jar" sourcepath="camel-log-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-main-3.7.0.jar" sourcepath="camel-main-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-management-api-3.7.0.jar" sourcepath="camel-management-api-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-mock-3.7.0.jar" sourcepath="camel-mock-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-quartz-3.7.0.jar" sourcepath="camel-quartz-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-ref-3.7.0.jar" sourcepath="camel-ref-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-rest-3.7.0.jar" sourcepath="camel-rest-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-saga-3.7.0.jar" sourcepath="camel-saga-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-scheduler-3.7.0.jar" sourcepath="camel-scheduler-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-seda-3.7.0.jar" sourcepath="camel-seda-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-spring-3.7.0.jar" sourcepath="camel-spring-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-stub-3.7.0.jar" sourcepath="camel-stub-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-support-3.7.0.jar" sourcepath="camel-support-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-timer-3.7.0.jar" sourcepath="camel-timer-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-tooling-model-3.7.0.jar" sourcepath="camel-tooling-model-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-util-3.7.0.jar" sourcepath="camel-util-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-util-json-3.7.0.jar" sourcepath="camel-util-json-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-validator-3.7.0.jar" sourcepath="camel-validator-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-vm-3.7.0.jar" sourcepath="camel-vm-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-xml-jaxb-3.7.0.jar" sourcepath="camel-xml-jaxb-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-xml-jaxp-3.7.0.jar" sourcepath="camel-xml-jaxp-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-xpath-3.7.0.jar" sourcepath="camel-xpath-3.7.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="camel-xslt-3.7.0.jar" sourcepath="camel-xslt-3.7.0-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
