@@ -2,23 +2,23 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Qpid
 Bundle-SymbolicName: org.apache.qpid
-Bundle-Version: 0.40.0
+Bundle-Version: 0.57.0
 Require-Bundle: javax.jms,
  org.slf4j
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
-Bundle-ClassPath: qpid-jms-client-0.40.0.jar,
- netty-buffer-4.1.32.Final.jar,
- netty-codec-4.1.32.Final.jar,
- netty-codec-http-4.1.32.Final.jar,
- netty-common-4.1.32.Final.jar,
- netty-handler-4.1.32.Final.jar,
- netty-resolver-4.1.32.Final.jar,
- netty-transport-4.1.32.Final.jar,
- netty-transport-native-epoll-4.1.32.Final-linux-x86_64.jar,
- netty-transport-native-kqueue-4.1.32.Final-osx-x86_64.jar,
- netty-transport-native-unix-common-4.1.32.Final.jar,
- proton-j-0.31.0.jar,
- qpid-jms-discovery-0.40.0.jar
+Bundle-ClassPath: qpid-jms-client-0.57.0.jar,
+ netty-buffer-4.1.60.Final.jar,
+ netty-codec-4.1.60.Final.jar,
+ netty-codec-http-4.1.60.Final.jar,
+ netty-common-4.1.60.Final.jar,
+ netty-handler-4.1.60.Final.jar,
+ netty-resolver-4.1.60.Final.jar,
+ netty-transport-4.1.60.Final.jar,
+ netty-transport-native-epoll-4.1.60.Final-linux-x86_64.jar,
+ netty-transport-native-kqueue-4.1.60.Final-osx-x86_64.jar,
+ netty-transport-native-unix-common-4.1.60.Final.jar,
+ proton-j-0.33.8.jar,
+ qpid-jms-discovery-0.57.0.jar
 Export-Package: org.apache.qpid.jms,
  org.apache.qpid.jms.exceptions,
  org.apache.qpid.jms.jndi,
