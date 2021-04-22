@@ -2,8 +2,8 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Thrift
 Bundle-SymbolicName: org.apache.thrift
-Bundle-Version: 0.14.0
-Bundle-ClassPath: libthrift-0.14.0.jar
+Bundle-Version: 0.10.0
+Bundle-ClassPath: libthrift-0.10.0.jar
 Bundle-Vendor: Apache
 Export-Package: org.apache.thrift,
  org.apache.thrift.async,
