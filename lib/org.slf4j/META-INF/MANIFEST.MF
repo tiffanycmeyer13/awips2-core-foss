@@ -2,11 +2,11 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Slf4j Plug-in
 Bundle-SymbolicName: org.slf4j
-Bundle-Version: 1.7.21
-Bundle-ClassPath: jcl-over-slf4j-1.7.21.jar,
- jul-to-slf4j-1.7.21.jar,
- log4j-over-slf4j-1.7.21.jar,
- slf4j-api-1.7.21.jar
+Bundle-Version: 1.7.25
+Bundle-ClassPath: jcl-over-slf4j-1.7.25.jar,
+ jul-to-slf4j-1.7.25.jar,
+ log4j-over-slf4j-1.7.25.jar,
+ slf4j-api-1.7.25.jar
 Export-Package: org.apache.commons.logging,
  org.apache.commons.logging.impl,
  org.apache.log4j,

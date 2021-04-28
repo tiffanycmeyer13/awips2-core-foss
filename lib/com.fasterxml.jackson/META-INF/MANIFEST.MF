@@ -2,13 +2,13 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Jackson
 Bundle-SymbolicName: com.fasterxml.jackson
-Bundle-Version: 2.6.5
+Bundle-Version: 2.9.8
 Bundle-Vendor: FASTERXML
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
-Bundle-ClassPath: jackson-annotations-2.6.5.jar,
- jackson-core-2.6.5.jar,
- jackson-databind-2.6.5.jar,
- jackson-module-jaxb-annotations-2.6.5.jar
+Bundle-ClassPath: jackson-annotations-2.9.8.jar,
+ jackson-core-2.9.8.jar,
+ jackson-databind-2.9.8.jar,
+ jackson-module-jaxb-annotations-2.9.8.jar
 Export-Package: com.fasterxml.jackson.annotation,
  com.fasterxml.jackson.core,
  com.fasterxml.jackson.core.base,
