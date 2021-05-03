@@ -2,8 +2,8 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Batik Plug-in
 Bundle-SymbolicName: org.apache.batik
-Bundle-Version: 1.13
-bundle-ClassPath: batik-all-1.13.jar
+Bundle-Version: 1.14
+bundle-ClassPath: batik-all-1.14.jar
 Bundle-Vendor: Raytheon-bundled OSS
 Require-Bundle: org.apache.commons.beanutils,
  org.apache.commons.collections,

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry exported="true" kind="lib" path="batik-all-1.13.jar" sourcepath="batik-src-1.13.zip"/>
+	<classpathentry exported="true" kind="lib" path="batik-all-1.14.jar" sourcepath="batik-src-1.14.zip"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
 	<classpathentry kind="output" path="bin"/>
