@@ -2,8 +2,8 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Apache Commons IO
 Bundle-SymbolicName: org.apache.commons.io
-Bundle-Version: 2.6
-Bundle-ClassPath: commons-io-2.6.jar
+Bundle-Version: 2.7.0
+Bundle-ClassPath: commons-io-2.7.jar
 Bundle-Vendor: Apache
 Export-Package: org.apache.commons.io,
  org.apache.commons.io.comparator,
