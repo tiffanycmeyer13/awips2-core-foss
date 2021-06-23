@@ -2,9 +2,9 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
-	<classpathentry exported="true" kind="lib" path="jcl-over-slf4j-1.7.25.jar" sourcepath="jcl-over-slf4j-1.7.25-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jul-to-slf4j-1.7.25.jar" sourcepath="jul-to-slf4j-1.7.25-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="log4j-over-slf4j-1.7.25.jar" sourcepath="log4j-over-slf4j-1.7.25-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="slf4j-api-1.7.25.jar" sourcepath="slf4j-api-1.7.25-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jcl-over-slf4j-1.7.26.jar" sourcepath="jcl-over-slf4j-1.7.26-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jul-to-slf4j-1.7.26.jar" sourcepath="jul-to-slf4j-1.7.26-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="log4j-over-slf4j-1.7.26.jar" sourcepath="log4j-over-slf4j-1.7.26-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="slf4j-api-1.7.26.jar" sourcepath="slf4j-api-1.7.26-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
