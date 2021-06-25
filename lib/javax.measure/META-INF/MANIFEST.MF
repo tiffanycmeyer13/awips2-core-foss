@@ -6,6 +6,7 @@ Bundle-Version: 1.0.0
 Bundle-ClassPath: si-quantity-0.7.1.jar,
  si-units-java8-0.7.1.jar,
  systems-common-java8-0.7.2.jar,
+ systems-quantity-0.7.2.jar,
  unit-api-1.0.jar,
  uom-lib-common-1.0.2.jar,
  uom-se-1.0.8.jar
