@@ -42,7 +42,5 @@ Export-Package: org.postgis,
  org.postgresql.sspi,
  org.postgresql.translation,
  org.postgresql.util,
- org.postgresql.xa,
- org.postgresql.xa.jdbc3,
- org.postgresql.xa.jdbc4
+ org.postgresql.xa
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
