@@ -5,6 +5,7 @@
 	<classpathentry exported="true" kind="lib" path="si-quantity-0.7.1.jar" sourcepath="si-units-java8-0.7.1-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="si-units-java8-0.7.1.jar" sourcepath="si-units-java8-0.7.1-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="systems-common-java8-0.7.2.jar" sourcepath="systems-common-java8-0.7.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="systems-quantity-0.7.2.jar" sourcepath="systems-quantity-0.7.2-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="uom-lib-common-1.0.2.jar" sourcepath="uom-lib-common-1.0.2-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="uom-se-1.0.8.jar" sourcepath="uom-se-1.0.8-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="unit-api-1.0.jar" sourcepath="unit-api-1.0-sources.jar"/>
