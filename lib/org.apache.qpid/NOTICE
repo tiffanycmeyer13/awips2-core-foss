@@ -1,0 +1,44 @@
+The following files were modified in qpid-jms-client:
+
+pom.xml, where the following was added to generate source jars
+   <plugin> <!-- NOTICE, modification made to the original file: added the source plugin  -->
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-source-plugin</artifactId>
+        <executions>
+            <execution>
+                <id>attach-sources</id>
+                <goals>
+                    <goal>jar</goal>
+                </goals>
+            </execution>
+        </executions>
+       </plugin>
+
+
+
+NettyTcpTransport.java, where the following was changed:
+
+Occurences of 'SslHandler sslHandler = channel.pipeline().get(SslHandler.class);' were changed to 
+'SslHandler sslHandler = (SslHandler)(channel.pipeline().get("ssl")); //get handler by name since we may have multiple SslHandlers in the pipeline'
+
+--------------------------------------------------------------------
+Within qpid-jms-discover, the following file was modified:
+
+pom.xml, where the following was added to generate source jars
+
+  <build> <!-- NOTICE added source plugin  -->
+      <plugins>
+        <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-source-plugin</artifactId>
+        <executions>
+            <execution>
+                <id>attach-sources</id>
+                <goals>
+                    <goal>jar</goal>
+                </goals>
+            </execution>
+        </executions>
+       </plugin>
+     </plugins>
+  </build>
