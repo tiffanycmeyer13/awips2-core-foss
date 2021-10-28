@@ -8,7 +8,7 @@ Bundle-ClassPath: httpclient-4.3.6.jar,
  httpcore-4.3.3.jar,
  httpmime-4.3.6.jar
 Require-Bundle: org.apache.commons.codec,
- org.slf4j;bundle-version="1.7.5"
+ org.slf4j
 Bundle-Vendor: Raytheon-bundled OSS
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 Export-Package: org.apache.http,

@@ -245,5 +245,5 @@ Export-Package: org.aopalliance.aop,
  org.springframework.web.multipart.commons,
  org.springframework.web.multipart.support,
  org.springframework.web.util
-Require-Bundle: org.quartz;bundle-version="1.8.6",
- org.slf4j;bundle-version="1.7.25"
+Require-Bundle: org.quartz,
+ org.slf4j

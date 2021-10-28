@@ -7,7 +7,7 @@ Bundle-ClassPath: gdal.jar,
  gt-imageio-ext-gdal-16.4.jar
 Bundle-Vendor: Raytheon-bundled OSS
 Export-Package: org.geotools.coverageio.gdal.aig
-Require-Bundle: org.geotools;bundle-version="16.4"
+Require-Bundle: org.geotools
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Eclipse-BuddyPolicy: registered, ext, global
 Bundle-ActivationPolicy: lazy

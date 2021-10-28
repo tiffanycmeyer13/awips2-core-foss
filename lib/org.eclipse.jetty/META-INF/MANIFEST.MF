@@ -64,4 +64,4 @@ Bundle-ClassPath: jetty-client-9.4.43.v20210629.jar,
  jetty-util-9.4.43.v20210629.jar,
  jetty-webapp-9.4.43.v20210629.jar,
  jetty-xml-9.4.43.v20210629.jar
-Require-Bundle: javax.servlet;bundle-version="3.1.0"
+Require-Bundle: javax.servlet

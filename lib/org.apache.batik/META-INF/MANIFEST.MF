@@ -9,9 +9,9 @@ Require-Bundle: org.apache.commons.beanutils,
  org.apache.commons.collections,
  org.apache.commons.configuration,
  org.apache.commons.lang,
- org.apache.xerces;bundle-version="2.9.1",
- org.w3c.xml.ext;bundle-version="1.3.4",
- org.apache.xmlgraphics;bundle-version="2.0.0"
+ org.apache.xerces,
+ org.w3c.xml.ext,
+ org.apache.xmlgraphics
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 Export-Package: org.apache.batik,
  org.apache.batik.anim,
