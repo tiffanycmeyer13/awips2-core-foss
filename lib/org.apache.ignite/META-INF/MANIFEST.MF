@@ -101,6 +101,6 @@ Export-Package: org.apache.ignite,
  org.apache.ignite.transactions,
  org.apache.ignite.util,
  org.apache.ignite.util.deque
-Require-Bundle: javax.cache;bundle-version="1.0.0";visibility:=reexport,
- com.h2database;bundle-version="1.4.197",
- org.springframework;bundle-version="4.3"
+Require-Bundle: javax.cache;visibility:=reexport,
+ com.h2database,
+ org.springframework
