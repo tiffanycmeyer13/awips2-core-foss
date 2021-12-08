@@ -312,6 +312,6 @@ Export-Package: org.aopalliance.aop,
  org.springframework.web.server.session,
  org.springframework.web.util,
  org.springframework.web.util.pattern
-Require-Bundle: org.slf4j;bundle-version="1.7.25",
+Require-Bundle: org.slf4j,
  org.quartz,
  javax.jms
