@@ -28,4 +28,4 @@ Export-Package: com.google.common.annotations,
  com.google.common.reflect,
  com.google.common.util.concurrent,
  com.google.common.xml
-Require-Bundle: org.checkerframework;bundle-version="3.5.0"
+Require-Bundle: org.checkerframework

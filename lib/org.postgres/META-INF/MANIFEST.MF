@@ -43,4 +43,4 @@ Export-Package: org.postgis,
  org.postgresql.util,
  org.postgresql.xa
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
-Require-Bundle: org.checkerframework;bundle-version="3.5.0"
+Require-Bundle: org.checkerframework
