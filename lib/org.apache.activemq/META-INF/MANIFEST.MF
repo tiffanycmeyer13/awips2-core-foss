@@ -14,7 +14,7 @@ Bundle-ClassPath: .,
  hawtbuf-1.11.jar
 Require-Bundle: org.springframework,
  javax.jms;resolution:=optional,
- org.slf4j;bundle-version="1.7.5"
+ org.slf4j
 Export-Package: org.apache.activemq,
  org.apache.activemq.advisory,
  org.apache.activemq.blob,

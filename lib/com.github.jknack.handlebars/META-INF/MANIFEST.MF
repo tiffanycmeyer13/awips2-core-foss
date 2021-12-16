@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Handlebars Plug-in
+Bundle-SymbolicName: com.github.jknack.handlebars
+Bundle-Version: 4.2.1
+Bundle-ClassPath: handlebars-4.2.1.jar,
+ handlebars-jackson2-4.2.1.jar
+Require-Bundle: org.slf4j;bundle-version="1.7.25",
+ com.fasterxml.jackson
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Export-Package: com.github.jknack.handlebars,
+ com.github.jknack.handlebars.cache,
+ com.github.jknack.handlebars.context,
+ com.github.jknack.handlebars.helper,
+ com.github.jknack.handlebars.io

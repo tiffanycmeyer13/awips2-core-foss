@@ -4,7 +4,7 @@ Bundle-Name: Hibernate Plug-in
 Bundle-SymbolicName: org.hibernate
 Bundle-Version: 5.4.24
 Bundle-Vendor: Hibernate
-Require-Bundle: org.slf4j;bundle-version="1.7.25",
+Require-Bundle: org.slf4j,
  org.javassist,
  com.mchange,
  net.sf.ehcache,
