@@ -36,7 +36,7 @@
 	<classpathentry kind="lib" path="hsqldb-2.4.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="imageio-ext-geocore-1.2.1.jar"/>
 	<classpathentry exported="true" kind="lib" path="imageio-ext-streams-1.2.1.jar"/>
-	<classpathentry exported="true" kind="lib" path="imageio-ext-tiff-1.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="imageio-ext-tiff-1.2.1.jar" sourcepath="imageio-ext-tiff-1.2.1-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="imageio-ext-utilities-1.2.1.jar"/>
 	<classpathentry kind="lib" path="jgridshift-1.0.jar"/>
 	<classpathentry kind="lib" path="json-simple-1.1.jar"/>
