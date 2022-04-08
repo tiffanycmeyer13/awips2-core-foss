@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Logback
-Bundle-SymbolicName: ch.qos.logback;singleton:=true
+Bundle-SymbolicName: ch.qos.logback
 Bundle-Version: 1.2.10
 Eclipse-BuddyPolicy: registered
 Bundle-ClassPath: logback-classic-1.2.10.jar,
