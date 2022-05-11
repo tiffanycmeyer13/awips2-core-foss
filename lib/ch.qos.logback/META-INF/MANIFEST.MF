@@ -2,10 +2,10 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Logback
 Bundle-SymbolicName: ch.qos.logback
-Bundle-Version: 1.2.0
+Bundle-Version: 1.2.10
 Eclipse-BuddyPolicy: registered
-Bundle-ClassPath: logback-classic-1.2.0.jar,
- logback-core-1.2.0.jar
+Bundle-ClassPath: logback-classic-1.2.10.jar,
+ logback-core-1.2.10.jar
 Bundle-Vendor: QOS
 Export-Package: ch.qos.logback.classic,
  ch.qos.logback.classic.boolex,
@@ -20,6 +20,7 @@ Export-Package: ch.qos.logback.classic,
  ch.qos.logback.classic.joran,
  ch.qos.logback.classic.joran.action,
  ch.qos.logback.classic.jul,
+ ch.qos.logback.classic.layout,
  ch.qos.logback.classic.log4j,
  ch.qos.logback.classic.net,
  ch.qos.logback.classic.net.server,
