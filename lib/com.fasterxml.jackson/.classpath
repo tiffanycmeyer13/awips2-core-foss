@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry exported="true" kind="lib" path="jackson-annotations-2.10.5.jar"/>
-	<classpathentry exported="true" kind="lib" path="jackson-core-2.10.5.jar"/>
-	<classpathentry exported="true" kind="lib" path="jackson-databind-2.10.5.1.jar"/>
-	<classpathentry exported="true" kind="lib" path="jackson-module-jaxb-annotations-2.10.5.jar"/>
-	<classpathentry exported="true" kind="lib" path="jakarta.activation-api-1.2.1.jar"/>
-	<classpathentry exported="true" kind="lib" path="jakarta.xml.bind-api-2.3.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="jackson-annotations-2.13.2.jar" sourcepath="jackson-annotations-2.13.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jackson-core-2.13.2.jar" sourcepath="jackson-core-2.13.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jackson-databind-2.13.2.2.jar" sourcepath="jackson-databind-2.13.2.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jackson-module-jaxb-annotations-2.13.2.jar" sourcepath="jackson-module-jaxb-annotations-2.13.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jakarta.activation-api-1.2.1.jar" sourcepath="jakarta.activation-api-1.2.1-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jakarta.xml.bind-api-2.3.2.jar" sourcepath="jakarta.xml.bind-api-2.3.2-sources.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
 	<classpathentry kind="output" path="bin"/>
