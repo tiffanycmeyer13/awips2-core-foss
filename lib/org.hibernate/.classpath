@@ -2,7 +2,7 @@
 <classpath>
 	<classpathentry kind="lib" path="byte-buddy-1.10.17.jar" sourcepath="byte-buddy-1.10.17-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="classmate-1.5.1.jar" sourcepath="classmate-1.5.1-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="geolatte-geom-1.4.0.jar" sourcepath="geolatte-geom-1.4.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="geolatte-geom-1.8.2.jar" sourcepath="geolatte-geom-1.8.2-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="hibernate-c3p0-5.4.24.Final.jar" sourcepath="hibernate-c3p0-5.4.24.Final-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="hibernate-commons-annotations-5.1.2.Final.jar" sourcepath="hibernate-commons-annotations-5.1.2.Final-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="hibernate-core-5.4.24.Final.jar" sourcepath="hibernate-core-5.4.24.Final-sources.jar"/>
