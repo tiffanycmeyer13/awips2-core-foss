@@ -2,9 +2,9 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: JDOM 2
 Bundle-SymbolicName: org.jdom2
-Bundle-Version: 2.0.6
+Bundle-Version: 2.0.6.1
 Bundle-Vendor: Raytheon-bundled OSS
-Bundle-ClassPath: jdom-2.0.6.jar
+Bundle-ClassPath: jdom-2.0.6.1.jar
 Export-Package: org.jdom2,
  org.jdom2.adapters,
  org.jdom2.filter,
