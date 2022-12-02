@@ -12,7 +12,7 @@ Require-Bundle: org.slf4j,
  org.geotools
 Bundle-ClassPath: byte-buddy-1.10.17.jar,
  classmate-1.5.1.jar,
- geolatte-geom-1.4.0.jar,
+ geolatte-geom-1.8.2.jar,
  hibernate-c3p0-5.4.24.Final.jar,
  hibernate-commons-annotations-5.1.2.Final.jar,
  hibernate-core-5.4.24.Final.jar,
