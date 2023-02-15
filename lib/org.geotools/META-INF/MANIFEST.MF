@@ -5,7 +5,7 @@ Bundle-SymbolicName: org.geotools
 Bundle-Version: 26.4
 Bundle-ClassPath: bigint-0.7.1.jar,
  commons-dbcp-1.4.jar,
- commons-text-1.6.jar,
+ commons-text-1.10.0.jar,
  disruptor-1.2.13.jar,
  ejml-core-0.34.jar,
  ejml-ddense-0.34.jar,
