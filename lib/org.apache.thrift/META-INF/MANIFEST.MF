@@ -2,20 +2,16 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Thrift
 Bundle-SymbolicName: org.apache.thrift
-Bundle-Version: 0.18.1
-Bundle-ClassPath: libthrift-0.18.1.jar
+Bundle-Version: 0.14.1
+Bundle-ClassPath: libthrift-0.14.1.jar
 Bundle-Vendor: Apache
 Export-Package: org.apache.thrift,
  org.apache.thrift.annotation,
  org.apache.thrift.async,
  org.apache.thrift.meta_data,
- org.apache.thrift.partial,
  org.apache.thrift.protocol,
  org.apache.thrift.scheme,
  org.apache.thrift.server,
- org.apache.thrift.transport,
- org.apache.thrift.transport.layered,
- org.apache.thrift.transport.sasl,
- org.apache.thrift.utils
+ org.apache.thrift.transport
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Require-Bundle: org.slf4j
