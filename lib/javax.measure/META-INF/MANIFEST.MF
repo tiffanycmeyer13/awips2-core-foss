@@ -22,6 +22,7 @@ Export-Package: javax.measure,
  tech.units.indriya.format,
  tech.units.indriya.function,
  tech.units.indriya.quantity,
+ tech.units.indriya.spi,
  tech.units.indriya.unit
 Bundle-Vendor: Raytheon-bundled OSS
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
