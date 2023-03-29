@@ -4,7 +4,7 @@ Bundle-Name: Velocity Plug-in
 Bundle-SymbolicName: org.apache.velocity
 Bundle-Version: 2.3
 Eclipse-BuddyPolicy: registered
-Bundle-ClassPath: velocity-tools-generic-2.0.jar,
+Bundle-ClassPath: velocity-tools-generic-3.1.jar,
  velocity-engine-core-2.3.jar
 Export-Package: org.apache.velocity,
  org.apache.velocity.app,
@@ -24,7 +24,6 @@ Export-Package: org.apache.velocity,
  org.apache.velocity.tools,
  org.apache.velocity.tools.config,
  org.apache.velocity.tools.generic,
- org.apache.velocity.tools.generic.log,
  org.apache.velocity.util,
  org.apache.velocity.util.introspection
 Require-Bundle: org.apache.commons.beanutils,
