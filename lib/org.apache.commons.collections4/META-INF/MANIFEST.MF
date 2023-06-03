@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Apache Commons Collections 4 Plug-in
+Bundle-SymbolicName: org.apache.commons.collections4
+Bundle-Version: 4.4
+Bundle-ClassPath: commons-collections4-4.4.jar
+Export-Package: org.apache.commons.collections4,
+ org.apache.commons.collections4.bag,
+ org.apache.commons.collections4.bidimap,
+ org.apache.commons.collections4.collection,
+ org.apache.commons.collections4.comparators,
+ org.apache.commons.collections4.functors,
+ org.apache.commons.collections4.iterators,
+ org.apache.commons.collections4.keyvalue,
+ org.apache.commons.collections4.list,
+ org.apache.commons.collections4.map,
+ org.apache.commons.collections4.set
+Bundle-Vendor: Raytheon-bundled OSS
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
