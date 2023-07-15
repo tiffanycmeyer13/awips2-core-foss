@@ -349,7 +349,7 @@ Export-Package:
  org.opengis.temporal,
  org.opengis.util
 Require-Bundle: com.fasterxml.jackson,
- com.google.guava;bundle-version="30.0.0",
+ com.google.guava;bundle-version="32.0.0",
  javax.measure,
  javax.media.jai,
  javax.xml.bind,
