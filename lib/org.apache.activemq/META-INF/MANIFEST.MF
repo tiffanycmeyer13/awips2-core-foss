@@ -2,18 +2,16 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Activemq Plug-in
 Bundle-SymbolicName: org.apache.activemq
-Bundle-Version: 5.15.14
+Bundle-Version: 5.18.3
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Bundle-ClassPath: .,
- activemq-broker-5.15.14.jar,
- activemq-client-5.15.14.jar,
- activemq-openwire-legacy-5.15.14.jar,
- activemq-stomp-5.15.14.jar,
- geronimo-j2ee-management_1.1_spec-1.0.1.jar,
- geronimo-jms_1.1_spec-1.1.1.jar,
+ activemq-broker-5.18.3.jar,
+ activemq-client-5.18.3.jar,
+ activemq-openwire-legacy-5.18.3.jar,
+ activemq-stomp-5.18.3.jar,
  hawtbuf-1.11.jar
 Require-Bundle: org.springframework,
- javax.jms;resolution:=optional,
+ javax.jms,
  org.slf4j
 Export-Package: org.apache.activemq,
  org.apache.activemq.advisory,
