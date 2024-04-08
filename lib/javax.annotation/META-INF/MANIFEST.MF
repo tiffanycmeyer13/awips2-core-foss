@@ -2,10 +2,10 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Java Annotation API  Plug-in
 Bundle-SymbolicName: javax.annotation
-Bundle-Version: 1.3.5
-Bundle-ClassPath: jakarta.annotation-api-1.3.5.jar
-Export-Package: javax.annotation;version="1.3.5",
- javax.annotation.security;version="1.3.5",
- javax.annotation.sql;version="1.3.5"
-Bundle-RequiredExecutionEnvironment: JavaSE-11
+Bundle-Version: 2.1.1
+Export-Package: jakarta.annotation,
+ jakarta.annotation.security,
+ jakarta.annotation.sql
+Bundle-ClassPath: jakarta.annotation-api-2.1.1.jar
+Bundle-RequiredExecutionEnvironment: JavaSE-17
 Automatic-Module-Name: javax.annotation
