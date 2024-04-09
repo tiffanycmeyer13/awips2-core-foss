@@ -27,4 +27,4 @@ Export-Package: javax.measure,
 Bundle-Vendor: Raytheon-bundled OSS
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Require-Bundle: javax.inject,
- javax.annotation
+ jakarta.annotation
