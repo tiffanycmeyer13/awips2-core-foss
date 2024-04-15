@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: Qpid
 Bundle-SymbolicName: org.apache.qpid
 Bundle-Version: 0.59.0
-Require-Bundle: javax.jms,
+Require-Bundle: jakarta.jms,
  org.slf4j
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Bundle-ClassPath: qpid-jms-client-0.59.0.jar,

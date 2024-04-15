@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Jms
-Bundle-SymbolicName: javax.jms
+Bundle-SymbolicName: jakarta.jms
 Bundle-Version: 3.1.0
 Bundle-RequiredExecutionEnvironment: JavaSE-17
 Bundle-ClassPath: jakarta.jms-api-3.1.0.jar

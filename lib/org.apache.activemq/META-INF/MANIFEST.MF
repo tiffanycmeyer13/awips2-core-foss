@@ -11,7 +11,7 @@ Bundle-ClassPath: .,
  activemq-stomp-5.18.3.jar,
  hawtbuf-1.11.jar
 Require-Bundle: org.springframework,
- javax.jms,
+ jakarta.jms,
  org.slf4j
 Export-Package: org.apache.activemq,
  org.apache.activemq.advisory,
