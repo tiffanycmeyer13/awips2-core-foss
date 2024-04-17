@@ -373,7 +373,7 @@ Require-Bundle: com.fasterxml.jackson,
  org.jdom2,
  org.postgres,
  org.slf4j,
- javax.activation,
+ jakarta.activation,
  org.apache.commons.collections4,
  org.apache.commons.jxpath,
  org.apache.commons.pool2

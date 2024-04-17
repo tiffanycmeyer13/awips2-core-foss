@@ -32,5 +32,5 @@ Export-Package: com.sun.xml.messaging.saaj,
  javax.xml.ws.wsaddressing
 Require-Bundle: javax.xml.bind,
  jakarta.annotation,
- javax.activation
+ jakarta.activation
 Bundle-RequiredExecutionEnvironment: JavaSE-11
