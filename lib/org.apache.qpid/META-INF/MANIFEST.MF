@@ -8,7 +8,7 @@ Require-Bundle: jakarta.jms,
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Bundle-ClassPath: qpid-jms-client-0.59.0.jar,
  netty-handler-proxy-4.1.99.Final.jar,
- proton-j-0.33.8.jar,
+ proton-j-0.34.1.jar,
  qpid-jms-discovery-0.59.0.jar,
  netty-buffer-4.1.99.Final.jar,
  netty-codec-4.1.99.Final.jar,
