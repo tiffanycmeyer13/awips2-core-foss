@@ -26,5 +26,5 @@ Export-Package: javax.measure,
  tech.units.indriya.unit
 Bundle-Vendor: Raytheon-bundled OSS
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
-Require-Bundle: javax.inject,
+Require-Bundle: jakarta.inject,
  jakarta.annotation
