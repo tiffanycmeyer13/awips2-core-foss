@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Jakarta XML API
+Bundle-SymbolicName: jakarta.xml.bind
+Bundle-Version: 4.0.2
+Bundle-Vendor: Raytheon-bundled OSS
+Bundle-ClassPath: FastInfoset-2.1.0.jar,
+ istack-commons-runtime-4.1.1.jar,
+ jakarta.xml.bind-api-4.0.2.jar,
+ jaxb-core-4.0.2.jar,
+ jaxb-runtime-4.0.2.jar,
+ stax-ex-2.1.0.jar,
+ txw2-4.0.2.jar
+Export-Package: jakarta.xml.bind,
+ jakarta.xml.bind.annotation,
+ jakarta.xml.bind.annotation.adapters,
+ jakarta.xml.bind.attachment,
+ jakarta.xml.bind.helpers,
+ jakarta.xml.bind.util
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Eclipse-BuddyPolicy: registered
+Require-Bundle: jakarta.activation
