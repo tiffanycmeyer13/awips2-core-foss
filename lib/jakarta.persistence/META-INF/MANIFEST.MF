@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Automatic-Module-Name: jakarta.persistence
+Bundle-Name: Jakarta Persistence API
+Bundle-SymbolicName: jakarta.persistence
+Bundle-Vendor: Raytheon-bundled OSS
+Bundle-Version: 3.1.0
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Bundle-ClassPath: jakarta.persistence-api-3.1.0.jar
+Export-Package: jakarta.persistence,
+ jakarta.persistence.criteria,
+ jakarta.persistence.metamodel,
+ jakarta.persistence.spi
