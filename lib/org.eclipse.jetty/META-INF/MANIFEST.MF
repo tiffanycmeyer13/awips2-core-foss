@@ -2,14 +2,13 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Eclipse Jetty
 Bundle-SymbolicName: org.eclipse.jetty
-Bundle-Version: 9.4.53.v20231009
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-Version: 11.0.20
+Bundle-RequiredExecutionEnvironment: JavaSE-17
 Export-Package: org.eclipse.jetty.client,
  org.eclipse.jetty.client.api,
  org.eclipse.jetty.client.http,
  org.eclipse.jetty.client.jmx,
  org.eclipse.jetty.client.util,
- org.eclipse.jetty.continuation,
  org.eclipse.jetty.http,
  org.eclipse.jetty.http.pathmap,
  org.eclipse.jetty.io,
@@ -29,7 +28,6 @@ Export-Package: org.eclipse.jetty.client,
  org.eclipse.jetty.server.handler.gzip,
  org.eclipse.jetty.server.handler.jmx,
  org.eclipse.jetty.server.jmx,
- org.eclipse.jetty.server.nio,
  org.eclipse.jetty.server.resource,
  org.eclipse.jetty.server.session,
  org.eclipse.jetty.servlet,
@@ -41,7 +39,6 @@ Export-Package: org.eclipse.jetty.client,
  org.eclipse.jetty.util.component,
  org.eclipse.jetty.util.compression,
  org.eclipse.jetty.util.log,
- org.eclipse.jetty.util.log.jmx,
  org.eclipse.jetty.util.preventers,
  org.eclipse.jetty.util.resource,
  org.eclipse.jetty.util.security,
@@ -51,18 +48,19 @@ Export-Package: org.eclipse.jetty.client,
  org.eclipse.jetty.util.thread.strategy,
  org.eclipse.jetty.webapp,
  org.eclipse.jetty.xml
-Bundle-ClassPath: jetty-client-9.4.53.v20231009.jar,
- jetty-continuation-9.4.53.v20231009.jar,
- jetty-http-9.4.53.v20231009.jar,
- jetty-io-9.4.53.v20231009.jar,
- jetty-jaas-9.4.53.v20231009.jar,
- jetty-jmx-9.4.53.v20231009.jar,
- jetty-plus-9.4.53.v20231009.jar,
- jetty-security-9.4.53.v20231009.jar,
- jetty-server-9.4.53.v20231009.jar,
- jetty-servlet-9.4.53.v20231009.jar,
- jetty-servlets-9.4.53.v20231009.jar,
- jetty-util-9.4.53.v20231009.jar,
- jetty-webapp-9.4.53.v20231009.jar,
- jetty-xml-9.4.53.v20231009.jar
-Require-Bundle: javax.servlet
+Require-Bundle: jakarta.servlet
+Bundle-ClassPath: jetty-alpn-client-11.0.20.jar,
+ jetty-client-11.0.20.jar,
+ jetty-http-11.0.20.jar,
+ jetty-io-11.0.20.jar,
+ jetty-jaas-11.0.20.jar,
+ jetty-jmx-11.0.20.jar,
+ jetty-plus-11.0.20.jar,
+ jetty-security-11.0.20.jar,
+ jetty-server-11.0.20.jar,
+ jetty-servlet-11.0.20.jar,
+ jetty-servlets-11.0.20.jar,
+ jetty-util-11.0.20.jar,
+ jetty-util-ajax-11.0.20.jar,
+ jetty-webapp-11.0.20.jar,
+ jetty-xml-11.0.20.jar

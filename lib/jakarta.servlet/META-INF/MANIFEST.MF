@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Servlet API
+Bundle-SymbolicName: jakarta.servlet
+Bundle-Version: 5.0.2
+Export-Package: jakarta.servlet,
+ jakarta.servlet.annotation,
+ jakarta.servlet.descriptor,
+ jakarta.servlet.http
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Bundle-ClassPath: jetty-jakarta-servlet-api-5.0.2.jar
