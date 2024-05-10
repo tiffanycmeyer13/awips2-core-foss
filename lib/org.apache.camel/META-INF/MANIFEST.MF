@@ -5,7 +5,7 @@ Bundle-SymbolicName: org.apache.camel
 Bundle-Version: 3.21.4
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Bundle-ClassPath: .,
- caffeine-3.1.2.jar,.
+ caffeine-3.1.2.jar,
  camel-api-3.21.4.jar,
  camel-attachments-3.21.4.jar,
  camel-base-3.21.4.jar,
