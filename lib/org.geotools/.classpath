@@ -81,7 +81,7 @@
 	<classpathentry kind="lib" path="jt-warp-1.1.25.jar"/>
 	<classpathentry kind="lib" path="jt-zonal-1.1.25.jar"/>
 	<classpathentry kind="lib" path="jt-zonalstats-1.6.0.jar"/>
-	<classpathentry exported="true" kind="lib" path="jts-core-1.19.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="jts-core-1.19.0.jar" sourcepath="jts-core-1.19.0-sources.jar"/>
 	<classpathentry kind="lib" path="net.opengis.ows-31.0.jar"/>
 	<classpathentry kind="lib" path="org.eclipse.emf.common-2.15.0.jar"/>
 	<classpathentry kind="lib" path="org.eclipse.emf.ecore.xmi-2.15.0.jar"/>
