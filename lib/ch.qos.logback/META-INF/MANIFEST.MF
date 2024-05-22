@@ -2,24 +2,27 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Logback
 Bundle-SymbolicName: ch.qos.logback
-Bundle-Version: 1.2.10
+Bundle-Version: 1.5.6
 Eclipse-BuddyPolicy: registered
-Bundle-ClassPath: logback-classic-1.2.10.jar,
- logback-core-1.2.10.jar
+Bundle-ClassPath: logback-classic-1.5.6.jar,
+ logback-core-1.5.6.jar
 Bundle-Vendor: QOS
 Export-Package: ch.qos.logback.classic,
  ch.qos.logback.classic.boolex,
- ch.qos.logback.classic.db.names,
  ch.qos.logback.classic.encoder,
  ch.qos.logback.classic.filter,
  ch.qos.logback.classic.helpers,
  ch.qos.logback.classic.html,
- ch.qos.logback.classic.jmx,
  ch.qos.logback.classic.joran,
  ch.qos.logback.classic.joran.action,
+ ch.qos.logback.classic.joran.sanity,
+ ch.qos.logback.classic.joran.serializedModel,
  ch.qos.logback.classic.jul,
  ch.qos.logback.classic.layout,
  ch.qos.logback.classic.log4j,
+ ch.qos.logback.classic.model,
+ ch.qos.logback.classic.model.processor,
+ ch.qos.logback.classic.model.util,
  ch.qos.logback.classic.net,
  ch.qos.logback.classic.net.server,
  ch.qos.logback.classic.pattern,
@@ -30,6 +33,7 @@ Export-Package: ch.qos.logback.classic,
  ch.qos.logback.classic.sift,
  ch.qos.logback.classic.spi,
  ch.qos.logback.classic.turbo,
+ ch.qos.logback.classic.tyler,
  ch.qos.logback.classic.util,
  ch.qos.logback.core,
  ch.qos.logback.core.boolex,
@@ -44,10 +48,16 @@ Export-Package: ch.qos.logback.classic,
  ch.qos.logback.core.joran.event,
  ch.qos.logback.core.joran.event.stax,
  ch.qos.logback.core.joran.node,
+ ch.qos.logback.core.joran.sanity,
  ch.qos.logback.core.joran.spi,
  ch.qos.logback.core.joran.util,
  ch.qos.logback.core.joran.util.beans,
  ch.qos.logback.core.layout,
+ ch.qos.logback.core.model,
+ ch.qos.logback.core.model.conditional,
+ ch.qos.logback.core.model.processor,
+ ch.qos.logback.core.model.processor.conditional,
+ ch.qos.logback.core.model.util,
  ch.qos.logback.core.net,
  ch.qos.logback.core.net.server,
  ch.qos.logback.core.net.ssl,
@@ -64,6 +74,5 @@ Export-Package: ch.qos.logback.classic,
  ch.qos.logback.core.spi,
  ch.qos.logback.core.status,
  ch.qos.logback.core.subst,
- ch.qos.logback.core.util,
- org.slf4j.impl
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+ ch.qos.logback.core.util
+Bundle-RequiredExecutionEnvironment: JavaSE-17
