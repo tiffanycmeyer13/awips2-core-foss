@@ -3,9 +3,9 @@ Bundle-ManifestVersion: 2
 Bundle-Name: Java Annotation API  Plug-in
 Bundle-SymbolicName: jakarta.annotation
 Bundle-Version: 2.1.1
-Export-Package: jakarta.annotation,
- jakarta.annotation.security,
- jakarta.annotation.sql
+Export-Package: jakarta.annotation;version="2.1.1",
+ jakarta.annotation.security;version="2.1.1",
+ jakarta.annotation.sql;version="2.1.1"
 Bundle-ClassPath: jakarta.annotation-api-2.1.1.jar
 Bundle-RequiredExecutionEnvironment: JavaSE-17
 Automatic-Module-Name: jakarta.annotation

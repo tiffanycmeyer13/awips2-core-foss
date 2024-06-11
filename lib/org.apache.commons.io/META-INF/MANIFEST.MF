@@ -5,11 +5,11 @@ Bundle-SymbolicName: org.apache.commons.io
 Bundle-Version: 2.10.0
 Bundle-ClassPath: commons-io-2.10.0.jar
 Bundle-Vendor: Apache
-Export-Package: org.apache.commons.io,
- org.apache.commons.io.comparator,
- org.apache.commons.io.filefilter,
- org.apache.commons.io.input,
- org.apache.commons.io.monitor,
- org.apache.commons.io.output
+Export-Package: org.apache.commons.io;version="2.10.0",
+ org.apache.commons.io.comparator;version="2.10.0",
+ org.apache.commons.io.filefilter;version="2.10.0",
+ org.apache.commons.io.input;version="2.10.0",
+ org.apache.commons.io.monitor;version="2.10.0",
+ org.apache.commons.io.output;version="2.10.0"
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Bundle-ActivationPolicy: lazy
