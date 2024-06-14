@@ -4,7 +4,7 @@ Bundle-Name: Java Inject API  Plug-in
 Bundle-SymbolicName: jakarta.inject
 Bundle-Vendor: Raytheon-bundled OSS
 Bundle-Version: 2.0.1
-Export-Package: jakarta.inject
+Export-Package: jakarta.inject;version="2.0.1"
 Bundle-ClassPath: jakarta.inject-api-2.0.1.jar
 Bundle-RequiredExecutionEnvironment: JavaSE-17
 Automatic-Module-Name: jakarta.inject
