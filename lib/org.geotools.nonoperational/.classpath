@@ -3,23 +3,23 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
 	<classpathentry exported="true" kind="lib" path="gdal-3.2.0.jar" sourcepath="gdal-3.2.0-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="gt-imageio-ext-gdal-31.0.jar"/>
-	<classpathentry kind="lib" path="imageio-ext-gdalarcbinarygrid-1.4.9.jar"/>
-	<classpathentry kind="lib" path="imageio-ext-gdaldted-1.4.9.jar"/>
-	<classpathentry kind="lib" path="imageio-ext-gdalecw-1.4.9.jar"/>
-	<classpathentry kind="lib" path="imageio-ext-gdalecwjp2-1.4.9.jar"/>
-	<classpathentry kind="lib" path="imageio-ext-gdalehdr-1.4.9.jar"/>
-	<classpathentry kind="lib" path="imageio-ext-gdalenvihdr-1.4.9.jar"/>
-	<classpathentry kind="lib" path="imageio-ext-gdalerdasimg-1.4.9.jar"/>
-	<classpathentry kind="lib" path="imageio-ext-gdalframework-1.4.9.jar"/>
-	<classpathentry kind="lib" path="imageio-ext-gdalidrisi-1.4.9.jar"/>
-	<classpathentry kind="lib" path="imageio-ext-gdalkakadujp2-1.4.9.jar"/>
-	<classpathentry kind="lib" path="imageio-ext-gdalmrsid-1.4.9.jar"/>
-	<classpathentry kind="lib" path="imageio-ext-gdalmrsidjp2-1.4.9.jar"/>
-	<classpathentry kind="lib" path="imageio-ext-gdalnitf-1.4.9.jar"/>
-	<classpathentry kind="lib" path="imageio-ext-gdalrpftoc-1.4.9.jar"/>
-	<classpathentry kind="lib" path="imageio-ext-gdalsrp-1.4.9.jar"/>
-	<classpathentry kind="lib" path="imageio-ext-gdalvrt-1.4.9.jar"/>
-	<classpathentry kind="lib" path="imageio-ext-imagereadmt-1.4.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="gt-imageio-ext-gdal-31.2.jar"/>
+	<classpathentry kind="lib" path="imageio-ext-gdalarcbinarygrid-1.4.12.jar"/>
+	<classpathentry kind="lib" path="imageio-ext-gdaldted-1.4.12.jar"/>
+	<classpathentry kind="lib" path="imageio-ext-gdalecw-1.4.12.jar"/>
+	<classpathentry kind="lib" path="imageio-ext-gdalecwjp2-1.4.12.jar"/>
+	<classpathentry kind="lib" path="imageio-ext-gdalehdr-1.4.12.jar"/>
+	<classpathentry kind="lib" path="imageio-ext-gdalenvihdr-1.4.12.jar"/>
+	<classpathentry kind="lib" path="imageio-ext-gdalerdasimg-1.4.12.jar"/>
+	<classpathentry kind="lib" path="imageio-ext-gdalframework-1.4.12.jar"/>
+	<classpathentry kind="lib" path="imageio-ext-gdalidrisi-1.4.12.jar"/>
+	<classpathentry kind="lib" path="imageio-ext-gdalkakadujp2-1.4.12.jar"/>
+	<classpathentry kind="lib" path="imageio-ext-gdalmrsid-1.4.12.jar"/>
+	<classpathentry kind="lib" path="imageio-ext-gdalmrsidjp2-1.4.12.jar"/>
+	<classpathentry kind="lib" path="imageio-ext-gdalnitf-1.4.12.jar"/>
+	<classpathentry kind="lib" path="imageio-ext-gdalrpftoc-1.4.12.jar"/>
+	<classpathentry kind="lib" path="imageio-ext-gdalsrp-1.4.12.jar"/>
+	<classpathentry kind="lib" path="imageio-ext-gdalvrt-1.4.12.jar"/>
+	<classpathentry kind="lib" path="imageio-ext-imagereadmt-1.4.12.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -3,47 +3,47 @@
 	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17"/>
 	<classpathentry kind="lib" path="bigint-0.7.1.jar"/>
-	<classpathentry kind="lib" path="aircompressor-0.20.jar"/>
+	<classpathentry kind="lib" path="aircompressor-0.27.jar"/>
 	<classpathentry kind="lib" path="apiguardian-api-1.1.1.jar"/>
 	<classpathentry kind="lib" path="commons-dbcp-1.4.jar"/>
 	<classpathentry kind="lib" path="commons-jxpath-1.3.jar"/>
-	<classpathentry kind="lib" path="commons-text-1.10.0.jar"/>
+	<classpathentry kind="lib" path="commons-text-1.12.0.jar"/>
 	<classpathentry kind="lib" path="disruptor-1.2.15.jar"/>
 	<classpathentry kind="lib" path="ejml-core-0.41.jar"/>
 	<classpathentry kind="lib" path="ejml-ddense-0.41.jar"/>
 	<classpathentry kind="lib" path="GeographicLib-Java-1.49.jar"/>
-	<classpathentry exported="true" kind="lib" path="gt-api-31.0.jar" sourcepath="gt-api-31.0-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="gt-coverage-31.0.jar" sourcepath="gt-coverage-31.0-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="gt-cql-31.0.jar" sourcepath="gt-cql-31.0-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="gt-epsg-hsql-31.0.jar" sourcepath="gt-epsg-hsql-31.0-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="gt-epsg-wkt-31.0.jar" sourcepath="gt-epsg-wkt-31.0-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="gt-geojson-31.0.jar" sourcepath="gt-geojson-31.0-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="gt-geotiff-31.0.jar" sourcepath="gt-geotiff-31.0-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="gt-graph-31.0.jar" sourcepath="gt-graph-31.0-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="gt-http-31.0.jar" sourcepath="gt-http-31.0-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="gt-http-commons-31.0.jar" sourcepath="gt-http-commons-31.0-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="gt-image-31.0.jar" sourcepath="gt-image-31.0-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="gt-jdbc-31.0.jar" sourcepath="gt-jdbc-31.0-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="gt-jdbc-postgis-31.0.jar" sourcepath="gt-jdbc-postgis-31.0-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="gt-main-31.0.jar" sourcepath="gt-main-31.0-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="gt-metadata-31.0.jar" sourcepath="gt-metadata-31.0-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="gt-referencing-31.0.jar" sourcepath="gt-referencing-31.0-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="gt-render-31.0.jar" sourcepath="gt-render-31.0-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="gt-shapefile-31.0.jar" sourcepath="gt-shapefile-31.0-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="gt-xml-31.0.jar" sourcepath="gt-xml-31.0-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="gt-xsd-core-31.0.jar" sourcepath="gt-xsd-core-31.0-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="gt-xsd-filter-31.0.jar" sourcepath="gt-xsd-filter-31.0-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="gt-xsd-gml2-31.0.jar" sourcepath="gt-xsd-gml2-31.0-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="gt-xsd-gml3-31.0.jar" sourcepath="gt-xsd-gml3-31.0-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="gt-xsd-sld-31.0.jar" sourcepath="gt-xsd-sld-31.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="gt-api-31.2.jar" sourcepath="gt-api-31.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="gt-coverage-31.2.jar" sourcepath="gt-coverage-31.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="gt-cql-31.2.jar" sourcepath="gt-cql-31.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="gt-epsg-hsql-31.2.jar" sourcepath="gt-epsg-hsql-31.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="gt-epsg-wkt-31.2.jar" sourcepath="gt-epsg-wkt-31.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="gt-geojson-31.2.jar" sourcepath="gt-geojson-31.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="gt-geotiff-31.2.jar" sourcepath="gt-geotiff-31.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="gt-graph-31.2.jar" sourcepath="gt-graph-31.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="gt-http-31.2.jar" sourcepath="gt-http-31.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="gt-http-commons-31.2.jar" sourcepath="gt-http-commons-31.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="gt-image-31.2.jar" sourcepath="gt-image-31.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="gt-jdbc-31.2.jar" sourcepath="gt-jdbc-31.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="gt-jdbc-postgis-31.2.jar" sourcepath="gt-jdbc-postgis-31.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="gt-main-31.2.jar" sourcepath="gt-main-31.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="gt-metadata-31.2.jar" sourcepath="gt-metadata-31.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="gt-referencing-31.2.jar" sourcepath="gt-referencing-31.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="gt-render-31.2.jar" sourcepath="gt-render-31.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="gt-shapefile-31.2.jar" sourcepath="gt-shapefile-31.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="gt-xml-31.2.jar" sourcepath="gt-xml-31.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="gt-xsd-core-31.2.jar" sourcepath="gt-xsd-core-31.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="gt-xsd-filter-31.2.jar" sourcepath="gt-xsd-filter-31.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="gt-xsd-gml2-31.2.jar" sourcepath="gt-xsd-gml2-31.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="gt-xsd-gml3-31.2.jar" sourcepath="gt-xsd-gml3-31.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="gt-xsd-sld-31.2.jar" sourcepath="gt-xsd-sld-31.2-sources.jar"/>
 	<classpathentry kind="lib" path="hsqldb-2.7.2.jar"/>
-	<classpathentry exported="true" kind="lib" path="imageio-ext-cog-commons-1.4.9.jar"/>
-	<classpathentry exported="true" kind="lib" path="imageio-ext-cog-reader-1.4.9.jar"/>
-	<classpathentry exported="true" kind="lib" path="imageio-ext-cog-streams-1.4.9.jar"/>
-	<classpathentry exported="true" kind="lib" path="imageio-ext-geocore-1.4.9.jar"/>
-	<classpathentry exported="true" kind="lib" path="imageio-ext-streams-1.4.9.jar"/>
-	<classpathentry exported="true" kind="lib" path="imageio-ext-tiff-1.4.9.jar"/>
-	<classpathentry exported="true" kind="lib" path="imageio-ext-utilities-1.4.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="imageio-ext-cog-commons-1.4.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="imageio-ext-cog-reader-1.4.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="imageio-ext-cog-streams-1.4.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="imageio-ext-geocore-1.4.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="imageio-ext-streams-1.4.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="imageio-ext-tiff-1.4.12.jar"/>
+	<classpathentry exported="true" kind="lib" path="imageio-ext-utilities-1.4.12.jar"/>
 	<classpathentry kind="lib" path="jgridshift-core-1.3.jar"/>
 	<classpathentry kind="lib" path="json-simple-1.1.1.jar"/>
 	<classpathentry kind="lib" path="jt-affine-1.1.25.jar"/>
@@ -81,12 +81,12 @@
 	<classpathentry kind="lib" path="jt-zonal-1.1.25.jar"/>
 	<classpathentry kind="lib" path="jt-zonalstats-1.6.0.jar"/>
 	<classpathentry exported="true" kind="lib" path="jts-core-1.19.0.jar" sourcepath="jts-core-1.19.0-sources.jar"/>
-	<classpathentry kind="lib" path="net.opengis.ows-31.0.jar"/>
+	<classpathentry kind="lib" path="net.opengis.ows-31.2.jar"/>
 	<classpathentry kind="lib" path="org.eclipse.emf.common-2.15.0.jar"/>
 	<classpathentry kind="lib" path="org.eclipse.emf.ecore.xmi-2.15.0.jar"/>
 	<classpathentry kind="lib" path="org.eclipse.emf.ecore-2.15.0.jar"/>
 	<classpathentry kind="lib" path="org.eclipse.xsd-2.12.0.jar"/>
-	<classpathentry kind="lib" path="org.w3.xlink-31.0.jar"/>
+	<classpathentry kind="lib" path="org.w3.xlink-31.2.jar"/>
 	<classpathentry kind="lib" path="picocontainer-1.2.jar"/>
 	<classpathentry kind="lib" path="re2j-1.6.jar"/>
 	<classpathentry kind="output" path="bin"/>
