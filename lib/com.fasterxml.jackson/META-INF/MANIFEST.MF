@@ -1,5 +1,6 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
+Automatic-Module-Name: com.fasterxml.jackson
 Bundle-Name: Jackson
 Bundle-SymbolicName: com.fasterxml.jackson
 Bundle-Version: 2.16.2
@@ -8,7 +9,7 @@ Bundle-RequiredExecutionEnvironment: JavaSE-17
 Bundle-ClassPath: jackson-annotations-2.16.2.jar,
  jackson-core-2.16.2.jar,
  jackson-databind-2.16.2.jar,
- jackson-module-jaxb-annotations-2.16.2.jar
+ jackson-module-jakarta-xmlbind-annotations-2.16.2.jar
 Export-Package: com.fasterxml.jackson.annotation,
  com.fasterxml.jackson.core,
  com.fasterxml.jackson.core.base,
@@ -39,7 +40,7 @@ Export-Package: com.fasterxml.jackson.annotation,
  com.fasterxml.jackson.databind.ser.std,
  com.fasterxml.jackson.databind.type,
  com.fasterxml.jackson.databind.util,
- com.fasterxml.jackson.module.jaxb,
- com.fasterxml.jackson.module.jaxb.deser,
- com.fasterxml.jackson.module.jaxb.ser
+ com.fasterxml.jackson.module.jakarta.xmlbind,
+ com.fasterxml.jackson.module.jakarta.xmlbind.deser,
+ com.fasterxml.jackson.module.jakarta.xmlbind.ser
 Require-Bundle: jakarta.xml.bind
