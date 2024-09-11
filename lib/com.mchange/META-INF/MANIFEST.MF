@@ -6,7 +6,7 @@ Bundle-Version: 0.9.5.5
 Bundle-ClassPath: .,
  c3p0-0.9.5.5.jar,
  mchange-commons-java-0.2.19.jar
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-RequiredExecutionEnvironment: JavaSE-17
 Export-Package: com.mchange,
  com.mchange.io,
  com.mchange.io.impl,

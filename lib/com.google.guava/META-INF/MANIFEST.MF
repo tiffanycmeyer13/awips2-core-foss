@@ -5,7 +5,7 @@ Bundle-SymbolicName: com.google.guava
 Bundle-Version: 32.0.0
 Bundle-Vendor: GOOGLE
 Bundle-ActivationPolicy: lazy
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-RequiredExecutionEnvironment: JavaSE-17
 Bundle-ClassPath: animal-sniffer-annotations-1.17.jar,
  error_prone_annotations-2.3.4.jar,
  failureaccess-1.0.1.jar,

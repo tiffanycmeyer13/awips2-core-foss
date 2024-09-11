@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: Persistence Plug-in
 Bundle-SymbolicName: javax.persistence
 Bundle-Version: 2.2
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-RequiredExecutionEnvironment: JavaSE-17
 Bundle-ClassPath: javax.persistence-api-2.2.jar
 Export-Package: javax.persistence,
  javax.persistence.criteria,

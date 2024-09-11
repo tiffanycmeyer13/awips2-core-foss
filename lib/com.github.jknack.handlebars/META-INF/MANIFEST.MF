@@ -7,7 +7,7 @@ Bundle-ClassPath: handlebars-4.3.1.jar,
  handlebars-jackson2-4.3.1.jar
 Require-Bundle: org.slf4j;bundle-version="1.7.25",
  com.fasterxml.jackson
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-RequiredExecutionEnvironment: JavaSE-17
 Export-Package: com.github.jknack.handlebars,
  com.github.jknack.handlebars.cache,
  com.github.jknack.handlebars.context,

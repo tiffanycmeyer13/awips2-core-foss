@@ -52,5 +52,5 @@ Export-Package: examples,
  org.postgresql.util.internal,
  org.postgresql.xa,
  org.postgresql.xml
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-RequiredExecutionEnvironment: JavaSE-17
 Require-Bundle: org.checkerframework

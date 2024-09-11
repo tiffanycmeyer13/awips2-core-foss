@@ -35,5 +35,5 @@ Export-Package: org.quartz,
  org.quartz.utils.counter.sampled,
  org.quartz.utils.weblogic,
  org.quartz.xml
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-RequiredExecutionEnvironment: JavaSE-17
 Require-Bundle: com.mchange

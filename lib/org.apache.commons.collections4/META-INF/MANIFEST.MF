@@ -16,4 +16,4 @@ Export-Package: org.apache.commons.collections4,
  org.apache.commons.collections4.map,
  org.apache.commons.collections4.set
 Bundle-Vendor: Raytheon-bundled OSS
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-RequiredExecutionEnvironment: JavaSE-17

@@ -31,4 +31,4 @@ Require-Bundle: org.apache.commons.beanutils,
  org.apache.commons.lang3,
  org.slf4j
 Bundle-Vendor: Raytheon-bundled OSS
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-RequiredExecutionEnvironment: JavaSE-17
