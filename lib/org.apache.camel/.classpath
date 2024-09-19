@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+	<classpathentry exported="true" kind="lib" path="camel-cron-4.4.2.jar" sourcepath="camel-cron-4.4.2-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="caffeine-3.1.2.jar" sourcepath="caffeine-3.1.2-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="camel-api-4.4.2.jar" sourcepath="camel-api-4.4.2-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="camel-attachments-4.4.2.jar" sourcepath="camel-attachments-4.4.2-sources.jar"/>
