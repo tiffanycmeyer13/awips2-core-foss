@@ -102,5 +102,7 @@ Export-Package: org.ehcache,
  org.ehcache.xml.multi.model,
  org.ehcache.xml.provider,
  org.ehcache.xml.service
+Require-Bundle: javax.xml.bind,
+ org.slf4j
 Bundle-ClassPath: ehcache-3.10.8.jar
 Bundle-RequiredExecutionEnvironment: JavaSE-17
