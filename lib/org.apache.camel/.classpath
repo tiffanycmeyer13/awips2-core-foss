@@ -35,7 +35,6 @@
 	<classpathentry exported="true" kind="lib" path="camel-main-4.4.2.jar" sourcepath="camel-main-4.4.2-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="camel-management-api-4.4.2.jar" sourcepath="camel-management-api-4.4.2-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="camel-mock-4.4.2.jar" sourcepath="camel-mock-4.4.2-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="camel-quartz-4.4.2.jar" sourcepath="camel-quartz-4.4.2-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="camel-ref-4.4.2.jar" sourcepath="camel-ref-4.4.2-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="camel-rest-4.4.2.jar" sourcepath="camel-rest-4.4.2-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="camel-saga-4.4.2.jar" sourcepath="camel-saga-4.4.2-sources.jar"/>
