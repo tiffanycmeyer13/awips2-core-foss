@@ -3,6 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: Postgres
 Bundle-SymbolicName: org.postgres
 Bundle-Version: 42.2.26
+Eclipse-BundleShape: dir
 Bundle-ClassPath: postgresql-42.2.26.jar,
  postgis-geometry-2.5.1.jar,
  postgis-jdbc-2.5.1.jar,
