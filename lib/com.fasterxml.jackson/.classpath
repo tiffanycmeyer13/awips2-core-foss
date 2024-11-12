@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry exported="true" kind="lib" path="jackson-annotations-2.16.2.jar" sourcepath="jackson-annotations-2.16.2-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jackson-core-2.16.2.jar" sourcepath="jackson-core-2.16.2-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jackson-databind-2.16.2.jar" sourcepath="jackson-databind-2.16.2-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jackson-module-jakarta-xmlbind-annotations-2.16.2.jar" sourcepath="jackson-module-jakarta-xmlbind-annotations-2.16.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jackson-annotations-2.17.2.jar" sourcepath="jackson-annotations-2.17.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jackson-core-2.17.2.jar" sourcepath="jackson-core-2.17.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jackson-databind-2.17.2.jar" sourcepath="jackson-databind-2.17.2-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jackson-module-jakarta-xmlbind-annotations-2.17.2.jar" sourcepath="jackson-module-jakarta-xmlbind-annotations-2.17.2-sources.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17"/>
 	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
 	<classpathentry kind="output" path="bin"/>
