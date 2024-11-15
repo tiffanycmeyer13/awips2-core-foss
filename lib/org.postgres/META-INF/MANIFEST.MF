@@ -2,20 +2,24 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Postgres
 Bundle-SymbolicName: org.postgres
-Bundle-Version: 42.2.26
+Bundle-Version: 42.7.4
 Eclipse-BundleShape: dir
-Bundle-ClassPath: postgresql-42.2.26.jar,
+Bundle-ClassPath: postgresql-42.7.4.jar,
  postgis-geometry-2.5.1.jar,
  postgis-jdbc-2.5.1.jar,
  postgis-jdbc-java2d-2.5.1.jar
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: org.checkerframework
 Export-Package: examples,
  org.postgis,
  org.postgis.binary,
  org.postgis.java2d,
+ org.postgis.util,
  org.postgresql,
  org.postgresql.copy,
  org.postgresql.core,
  org.postgresql.core.v3,
+ org.postgresql.core.v3.adaptivefetch,
  org.postgresql.core.v3.replication,
  org.postgresql.ds,
  org.postgresql.ds.common,
@@ -27,9 +31,10 @@ Export-Package: examples,
  org.postgresql.jdbc2,
  org.postgresql.jdbc2.optional,
  org.postgresql.jdbc3,
- org.postgresql.jre7.sasl,
+ org.postgresql.jdbcurlresolver,
  org.postgresql.largeobject,
  org.postgresql.osgi,
+ org.postgresql.plugin,
  org.postgresql.replication,
  org.postgresql.replication.fluent,
  org.postgresql.replication.fluent.logical,
@@ -37,12 +42,7 @@ Export-Package: examples,
  org.postgresql.shaded.com.ongres.saslprep,
  org.postgresql.shaded.com.ongres.scram.client,
  org.postgresql.shaded.com.ongres.scram.common,
- org.postgresql.shaded.com.ongres.scram.common.bouncycastle.base64,
- org.postgresql.shaded.com.ongres.scram.common.bouncycastle.pbkdf2,
  org.postgresql.shaded.com.ongres.scram.common.exception,
- org.postgresql.shaded.com.ongres.scram.common.gssapi,
- org.postgresql.shaded.com.ongres.scram.common.message,
- org.postgresql.shaded.com.ongres.scram.common.stringprep,
  org.postgresql.shaded.com.ongres.scram.common.util,
  org.postgresql.shaded.com.ongres.stringprep,
  org.postgresql.ssl,
