@@ -1,0 +1,20 @@
+NettyTcpTransport.java in qpid-jms-client-2.5.0-sources.jar was modified as follows:
+
+287c287
+<             SslHandler sslHandler = channel.pipeline().get(SslHandler.class);
+---
+>             SslHandler sslHandler = (SslHandler)(channel.pipeline().get("ssl")); //get handler by name since we may have multiple SslHandlers in the pipeline
+512c512
+<                 SslHandler sslHandler = context.pipeline().get(SslHandler.class);
+---
+>                 SslHandler sslHandler = (SslHandler)(context.pipeline().get("ssl")); //get handler by name since we may have multiple SslHandlers in the pipeline
+
+
+The following files in qpid-client-2.5.0.jar were recompiled from the changed source and replaced:
+
+NettyTcpTransport$1.class
+NettyTcpTransport$2.class
+NettyTcpTransport$NettyDefaultHandler$1.class
+NettyTcpTransport$NettyDefaultHandler.class
+NettyTcpTransport$NettyTcpTransportHandler.class
+NettyTcpTransport.class
