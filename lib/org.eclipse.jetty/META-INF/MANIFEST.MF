@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Eclipse Jetty
 Bundle-SymbolicName: org.eclipse.jetty
-Bundle-Version: 12.0.8
+Bundle-Version: 12.0.16
 Bundle-RequiredExecutionEnvironment: JavaSE-17
 Export-Package: org.eclipse.jetty.alpn.client,
  org.eclipse.jetty.client,
@@ -10,6 +10,7 @@ Export-Package: org.eclipse.jetty.alpn.client,
  org.eclipse.jetty.client.jmx,
  org.eclipse.jetty.client.transport,
  org.eclipse.jetty.client.transport.internal,
+ org.eclipse.jetty.ee,
  org.eclipse.jetty.ee10.servlet,
  org.eclipse.jetty.ee10.servlet.jmx,
  org.eclipse.jetty.ee10.servlet.listener,
@@ -60,18 +61,19 @@ Export-Package: org.eclipse.jetty.alpn.client,
  org.eclipse.jetty.xml
 Require-Bundle: jakarta.servlet,
  org.slf4j
-Bundle-ClassPath: jetty-alpn-client-12.0.8.jar,
- jetty-client-12.0.8.jar,
- jetty-ee10-servlet-12.0.8.jar,
- jetty-ee10-servlets-12.0.8.jar,
- jetty-ee10-webapp-12.0.8.jar,
- jetty-http-12.0.8.jar,
- jetty-io-12.0.8.jar,
- jetty-jmx-12.0.8.jar,
- jetty-plus-12.0.8.jar,
- jetty-security-12.0.8.jar,
- jetty-server-12.0.8.jar,
- jetty-session-12.0.8.jar,
- jetty-util-12.0.8.jar,
- jetty-util-ajax-12.0.8.jar,
- jetty-xml-12.0.8.jar
+Bundle-ClassPath: jetty-alpn-client-12.0.16.jar,
+ jetty-client-12.0.16.jar,
+ jetty-ee-12.0.16.jar,
+ jetty-ee10-servlet-12.0.16.jar,
+ jetty-ee10-servlets-12.0.16.jar,
+ jetty-ee10-webapp-12.0.16.jar,
+ jetty-http-12.0.16.jar,
+ jetty-io-12.0.16.jar,
+ jetty-jmx-12.0.16.jar,
+ jetty-plus-12.0.16.jar,
+ jetty-security-12.0.16.jar,
+ jetty-server-12.0.16.jar,
+ jetty-session-12.0.16.jar,
+ jetty-util-12.0.16.jar,
+ jetty-util-ajax-12.0.16.jar,
+ jetty-xml-12.0.16.jar
