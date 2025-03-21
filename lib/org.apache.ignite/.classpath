@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry exported="true" kind="lib" path="ignite-core-2.16.0.jar" sourcepath="ignite-core-2.16.0-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="ignite-indexing-2.16.0.jar" sourcepath="ignite-indexing-2.16.0-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="ignite-slf4j-2.16.0.jar" sourcepath="ignite-slf4j-2.16.0-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="ignite-spring-2.16.0.jar" sourcepath="ignite-spring-2.16.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="ignite-core-2.17.0.jar" sourcepath="ignite-core-2.17.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="ignite-indexing-2.17.0.jar" sourcepath="ignite-indexing-2.17.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="ignite-slf4j-2.17.0.jar" sourcepath="ignite-slf4j-2.17.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="ignite-spring-2.17.0.jar" sourcepath="ignite-spring-2.17.0-sources.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
