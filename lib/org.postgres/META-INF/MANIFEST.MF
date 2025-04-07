@@ -8,8 +8,6 @@ Bundle-ClassPath: postgresql-42.7.4.jar,
  postgis-geometry-2.5.1.jar,
  postgis-jdbc-2.5.1.jar,
  postgis-jdbc-java2d-2.5.1.jar
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
-Require-Bundle: org.checkerframework
 Export-Package: examples,
  org.postgis,
  org.postgis.binary,
