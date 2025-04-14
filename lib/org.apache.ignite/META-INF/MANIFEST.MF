@@ -2,12 +2,12 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Apache Ignite
 Bundle-SymbolicName: org.apache.ignite
-Bundle-Version: 2.9.0
+Bundle-Version: 2.17.0
 Bundle-Vendor: Raytheon-bundled OSS
-Bundle-ClassPath: ignite-indexing-2.9.0.jar,
- ignite-core-2.9.0.jar,
- ignite-spring-2.9.0.jar,
- ignite-slf4j-2.9.0.jar
+Bundle-ClassPath: ignite-core-2.17.0.jar,
+ ignite-indexing-2.17.0.jar,
+ ignite-slf4j-2.17.0.jar,
+ ignite-spring-2.17.0.jar
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Export-Package: org.apache.ignite,
  org.apache.ignite.binary,
@@ -26,8 +26,6 @@ Export-Package: org.apache.ignite,
  org.apache.ignite.client,
  org.apache.ignite.cluster,
  org.apache.ignite.compute,
- org.apache.ignite.compute.gridify,
- org.apache.ignite.compute.gridify.aop,
  org.apache.ignite.configuration,
  org.apache.ignite.events,
  org.apache.ignite.failure,
