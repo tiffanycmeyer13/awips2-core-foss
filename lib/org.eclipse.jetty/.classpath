@@ -12,6 +12,7 @@
 	<classpathentry exported="true" kind="lib" path="jetty-io-12.0.16.jar" sourcepath="jetty-io-12.0.16-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="jetty-jmx-12.0.16.jar" sourcepath="jetty-jmx-12.0.16-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="jetty-plus-12.0.16.jar" sourcepath="jetty-plus-12.0.16-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jetty-rewrite-12.0.16.jar" sourcepath="jetty-rewrite-12.0.16-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="jetty-security-12.0.16.jar" sourcepath="jetty-security-12.0.16-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="jetty-server-12.0.16.jar" sourcepath="jetty-server-12.0.16-sources.jar"/>
 	<classpathentry exported="true" kind="lib" path="jetty-util-12.0.16.jar" sourcepath="jetty-util-12.0.16-sources.jar"/>
