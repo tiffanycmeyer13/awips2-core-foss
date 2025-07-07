@@ -22,8 +22,10 @@ Export-Package: org.apache.commons.configuration2,
  org.apache.commons.configuration2.tree,
  org.apache.commons.configuration2.tree.xpath,
  org.apache.commons.configuration2.web
-Require-Bundle: org.apache.commons.lang3,
- org.apache.commons.text
+Require-Bundle: org.apache.commons.lang3, 
+ org.apache.commons.text,
+ org.apache.commons.beanutils,
+ org.slf4j
 Bundle-ClassPath: commons-configuration2-2.12.0.jar
 Bundle-Vendor: Raytheon-bundled OSS
 Bundle-RequiredExecutionEnvironment: JavaSE-17
