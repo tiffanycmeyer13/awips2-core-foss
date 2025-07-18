@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Apache HTTP Components Core 5
 Bundle-SymbolicName: org.apache.httpcomponents.core5
-Bundle-Version: 5.2.4
+Bundle-Version: 5.3.4
 Export-Package: org.apache.hc.core5.annotation,
  org.apache.hc.core5.concurrent,
  org.apache.hc.core5.function,
@@ -47,7 +47,7 @@ Export-Package: org.apache.hc.core5.annotation,
  org.apache.hc.core5.reactor.ssl,
  org.apache.hc.core5.ssl,
  org.apache.hc.core5.util
-Bundle-ClassPath: httpcore5-5.2.4.jar,
- httpcore5-h2-5.2.4
+Bundle-ClassPath: httpcore5-5.3.4.jar,
+ httpcore5-h2-5.3.4
 Bundle-Vendor: Raytheon-bundled OSS
 Bundle-RequiredExecutionEnvironment: JavaSE-17
