@@ -2,14 +2,14 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Apache Commons IO
 Bundle-SymbolicName: org.apache.commons.io
-Bundle-Version: 2.17.0
-Bundle-ClassPath: commons-io-2.17.0.jar
+Bundle-Version: 2.18.0
+Bundle-ClassPath: commons-io-2.18.0.jar
 Bundle-Vendor: Apache
-Export-Package: org.apache.commons.io;version="2.10.0",
- org.apache.commons.io.comparator;version="2.10.0",
- org.apache.commons.io.filefilter;version="2.10.0",
- org.apache.commons.io.input;version="2.10.0",
- org.apache.commons.io.monitor;version="2.10.0",
- org.apache.commons.io.output;version="2.10.0"
+Export-Package: org.apache.commons.io,
+ org.apache.commons.io.comparator,
+ org.apache.commons.io.filefilter,
+ org.apache.commons.io.input,
+ org.apache.commons.io.monitor,
+ org.apache.commons.io.output
 Bundle-RequiredExecutionEnvironment: JavaSE-17
 Bundle-ActivationPolicy: lazy
