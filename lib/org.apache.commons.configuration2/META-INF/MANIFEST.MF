@@ -1,0 +1,31 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Automatic-Module-Name: org.apache.commons.configuration2
+Bundle-Name: Configuration 2 Plug-in
+Bundle-SymbolicName: org.apache.commons.configuration2
+Bundle-Version: 2.12.0
+Export-Package: org.apache.commons.configuration2,
+ org.apache.commons.configuration2.beanutils,
+ org.apache.commons.configuration2.builder,
+ org.apache.commons.configuration2.builder.combined,
+ org.apache.commons.configuration2.builder.fluent,
+ org.apache.commons.configuration2.convert,
+ org.apache.commons.configuration2.event,
+ org.apache.commons.configuration2.ex,
+ org.apache.commons.configuration2.interpol,
+ org.apache.commons.configuration2.io,
+ org.apache.commons.configuration2.plist,
+ org.apache.commons.configuration2.reloading,
+ org.apache.commons.configuration2.resolver,
+ org.apache.commons.configuration2.spring,
+ org.apache.commons.configuration2.sync,
+ org.apache.commons.configuration2.tree,
+ org.apache.commons.configuration2.tree.xpath,
+ org.apache.commons.configuration2.web
+Require-Bundle: org.apache.commons.lang3, 
+ org.apache.commons.text,
+ org.apache.commons.beanutils,
+ org.slf4j
+Bundle-ClassPath: commons-configuration2-2.12.0.jar
+Bundle-Vendor: Raytheon-bundled OSS
+Bundle-RequiredExecutionEnvironment: JavaSE-17
