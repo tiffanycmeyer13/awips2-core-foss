@@ -2,9 +2,9 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Apache Commons Lang3
 Bundle-SymbolicName: org.apache.commons.lang3
-Bundle-Version: 3.17.0
+Bundle-Version: 3.18.0
 Bundle-RequiredExecutionEnvironment: JavaSE-17
-Bundle-ClassPath: commons-lang3-3.17.0.jar
+Bundle-ClassPath: commons-lang3-3.18.0.jar
 Export-Package: org.apache.commons.lang3,
  org.apache.commons.lang3.arch,
  org.apache.commons.lang3.builder,
@@ -23,3 +23,4 @@ Export-Package: org.apache.commons.lang3,
  org.apache.commons.lang3.time,
  org.apache.commons.lang3.tuple,
  org.apache.commons.lang3.util
+Eclipse-BuddyPolicy: dependent
