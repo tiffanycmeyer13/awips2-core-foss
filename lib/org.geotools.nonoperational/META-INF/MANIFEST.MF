@@ -3,9 +3,9 @@ Bundle-ManifestVersion: 2
 Bundle-Name: Nonoperational Geotools Plug-in
 Bundle-SymbolicName: org.geotools.nonoperational
 Automatic-Module-Name: org.geotools.nonoperational
-Bundle-Version: 31.2
+Bundle-Version: 31.7
 Bundle-ClassPath: gdal-3.2.0.jar,
- gt-imageio-ext-gdal-31.2.jar,
+ gt-imageio-ext-gdal-31.7.jar,
  imageio-ext-gdalarcbinarygrid-1.4.12.jar,
  imageio-ext-gdaldted-1.4.12.jar,
  imageio-ext-gdalecw-1.4.12.jar,
