@@ -3,7 +3,7 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
 	<classpathentry exported="true" kind="lib" path="gdal-3.2.0.jar" sourcepath="gdal-3.2.0-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="gt-imageio-ext-gdal-31.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="gt-imageio-ext-gdal-31.7.jar"/>
 	<classpathentry kind="lib" path="imageio-ext-gdalarcbinarygrid-1.4.12.jar"/>
 	<classpathentry kind="lib" path="imageio-ext-gdaldted-1.4.12.jar"/>
 	<classpathentry kind="lib" path="imageio-ext-gdalecw-1.4.12.jar"/>
