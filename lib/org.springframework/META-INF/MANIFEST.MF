@@ -2,25 +2,25 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Spring Framework Plug-in
 Bundle-SymbolicName: org.springframework
-Bundle-Version: 6.2.8
+Bundle-Version: 6.2.14
 Bundle-RequiredExecutionEnvironment: JavaSE-17
 Bundle-ClassPath: .,
  antlr-2.7.7.jar,
- micrometer-commons-1.14.8.jar,
- micrometer-observation-1.14.8.jar,
- spring-aop-6.2.8.jar,
- spring-beans-6.2.8.jar,
- spring-context-6.2.8.jar,
- spring-context-support-6.2.8.jar,
- spring-core-6.2.8.jar,
- spring-expression-6.2.8.jar,
- spring-jcl-6.2.8.jar,
- spring-jdbc-6.2.8.jar,
- spring-jms-6.2.8.jar,
- spring-messaging-6.2.8jar,
- spring-orm-6.2.8.jar,
- spring-tx-6.2.8.jar,
- spring-web-6.2.8.jar
+ micrometer-commons-1.14.9.jar,
+ micrometer-observation-1.14.9.jar,
+ spring-aop-6.2.14.jar,
+ spring-beans-6.2.14.jar,
+ spring-context-6.2.14.jar,
+ spring-context-support-6.2.14.jar,
+ spring-core-6.2.14.jar,
+ spring-expression-6.2.14.jar,
+ spring-jcl-6.2.14.jar,
+ spring-jdbc-6.2.14.jar,
+ spring-jms-6.2.14.jar,
+ spring-messaging-6.2.14jar,
+ spring-orm-6.2.14.jar,
+ spring-tx-6.2.14.jar,
+ spring-web-6.2.14.jar
 Export-Package: org.aopalliance.aop,
  org.aopalliance.intercept,
  org.springframework.aop,
