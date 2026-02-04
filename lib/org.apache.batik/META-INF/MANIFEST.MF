@@ -7,7 +7,6 @@ bundle-ClassPath: batik-all-1.17.jar
 Bundle-Vendor: Raytheon-bundled OSS
 Require-Bundle: org.apache.commons.beanutils,
  org.apache.commons.collections,
- org.apache.commons.lang,
  org.apache.xerces,
  org.w3c.xml.ext,
  org.apache.xmlgraphics
