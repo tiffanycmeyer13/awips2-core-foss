@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry exported="true" kind="lib" path="logback-classic-1.5.19.jar" sourcepath="logback-classic-1.5.19-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="logback-core-1.5.19.jar" sourcepath="logback-core-1.5.19-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="logback-classic-1.5.26.jar" sourcepath="logback-classic-1.5.26-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="logback-core-1.5.26.jar" sourcepath="logback-core-1.5.26-sources.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
 	<classpathentry kind="output" path="bin"/>
