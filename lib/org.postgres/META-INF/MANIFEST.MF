@@ -2,9 +2,9 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Postgres
 Bundle-SymbolicName: org.postgres
-Bundle-Version: 42.7.4
+Bundle-Version: 42.7.10
 Eclipse-BundleShape: dir
-Bundle-ClassPath: postgresql-42.7.4.jar,
+Bundle-ClassPath: postgresql-42.7.10.jar,
  postgis-geometry-2.5.1.jar,
  postgis-jdbc-2.5.1.jar,
  postgis-jdbc-java2d-2.5.1.jar
