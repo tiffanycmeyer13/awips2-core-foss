@@ -2,10 +2,10 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: C3P0
 Bundle-SymbolicName: com.mchange
-Bundle-Version: 0.9.5.5
+Bundle-Version: 0.12.0
 Bundle-ClassPath: .,
- c3p0-0.9.5.5.jar,
- mchange-commons-java-0.2.19.jar
+ c3p0-0.12.0.jar,
+ mchange-commons-java-0.4.0.jar
 Bundle-RequiredExecutionEnvironment: JavaSE-17
 Export-Package: com.mchange,
  com.mchange.io,
@@ -35,7 +35,6 @@ Export-Package: com.mchange,
  com.mchange.v2.beans.swing,
  com.mchange.v2.c3p0,
  com.mchange.v2.c3p0.cfg,
- com.mchange.v2.c3p0.codegen,
  com.mchange.v2.c3p0.debug,
  com.mchange.v2.c3p0.example,
  com.mchange.v2.c3p0.filter,
@@ -45,7 +44,6 @@ Export-Package: com.mchange,
  com.mchange.v2.c3p0.mbean,
  com.mchange.v2.c3p0.stmt,
  com.mchange.v2.c3p0.subst,
- com.mchange.v2.c3p0.test,
  com.mchange.v2.c3p0.util,
  com.mchange.v2.cfg,
  com.mchange.v2.cmdline,
