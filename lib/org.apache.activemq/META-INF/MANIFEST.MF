@@ -2,12 +2,12 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Activemq Plug-in
 Bundle-SymbolicName: org.apache.activemq
-Bundle-Version: 6.1.6
+Bundle-Version: 6.2.5
 Bundle-RequiredExecutionEnvironment: JavaSE-17
-Bundle-ClassPath: activemq-broker-6.1.6.jar,
- activemq-client-6.1.6.jar,
- activemq-openwire-legacy-6.1.6.jar,
- activemq-stomp-6.1.6.jar,
+Bundle-ClassPath: activemq-broker-6.2.5.jar,
+ activemq-client-6.2.5.jar,
+ activemq-openwire-legacy-6.2.5.jar,
+ activemq-stomp-6.2.5.jar,
  hawtbuf-1.11.jar
 Require-Bundle: org.springframework,
  jakarta.jms,
