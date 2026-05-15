@@ -1,22 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry exported="true" kind="lib" path="jetty-ee-12.0.34.jar" sourcepath="jetty-ee-12.0.34-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jetty-ee10-servlet-12.0.34.jar" sourcepath="jetty-ee10-servlet-12.0.34-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jetty-ee10-servlets-12.0.34.jar" sourcepath="jetty-ee10-servlets-12.0.34-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jetty-ee10-webapp-12.0.34.jar" sourcepath="jetty-ee10-webapp-12.0.34-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jetty-session-12.0.34.jar" sourcepath="jetty-session-12.0.34-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jetty-util-ajax-12.0.34.jar" sourcepath="jetty-util-ajax-12.0.34-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jetty-alpn-client-12.0.34.jar" sourcepath="jetty-alpn-client-12.0.34-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jetty-client-12.0.34.jar" sourcepath="jetty-client-12.0.34-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jetty-http-12.0.34.jar" sourcepath="jetty-http-12.0.34-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jetty-io-12.0.34.jar" sourcepath="jetty-io-12.0.34-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jetty-jmx-12.0.34.jar" sourcepath="jetty-jmx-12.0.34-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jetty-plus-12.0.34.jar" sourcepath="jetty-plus-12.0.34-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jetty-rewrite-12.0.34.jar" sourcepath="jetty-rewrite-12.0.34-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jetty-security-12.0.34.jar" sourcepath="jetty-security-12.0.34-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jetty-server-12.0.34.jar" sourcepath="jetty-server-12.0.34-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jetty-util-12.0.34.jar" sourcepath="jetty-util-12.0.34-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="jetty-xml-12.0.34.jar" sourcepath="jetty-xml-12.0.34-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jetty-alpn-client-12.1.8.jar" sourcepath="jetty-alpn-client-12.1.8-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jetty-client-12.1.8.jar" sourcepath="jetty-client-12.1.8-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jetty-compression-common-12.1.8.jar" sourcepath="jetty-compression-common-12.1.8-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jetty-compression-gzip-12.1.8.jar" sourcepath="jetty-compression-gzip-12.1.8-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jetty-ee10-servlet-12.1.8.jar" sourcepath="jetty-ee10-servlet-12.1.8-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jetty-ee10-servlets-12.1.8.jar" sourcepath="jetty-ee10-servlets-12.1.8-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jetty-ee10-webapp-12.1.8.jar" sourcepath="jetty-ee10-webapp-12.1.8-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jetty-ee-webapp-12.1.8.jar" sourcepath="jetty-ee-webapp-12.1.8-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jetty-http-12.1.8.jar" sourcepath="jetty-http-12.1.8-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jetty-io-12.1.8.jar" sourcepath="jetty-io-12.1.8-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jetty-jmx-12.1.8.jar" sourcepath="jetty-jmx-12.1.8-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jetty-plus-12.1.8.jar" sourcepath="jetty-plus-12.1.8-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jetty-rewrite-12.1.8.jar" sourcepath="jetty-rewrite-12.1.8-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jetty-security-12.1.8.jar" sourcepath="jetty-security-12.1.8-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jetty-server-12.1.8.jar" sourcepath="jetty-server-12.1.8-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jetty-session-12.1.8.jar" sourcepath="jetty-session-12.1.8-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jetty-util-12.1.8.jar" sourcepath="jetty-util-12.1.8-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jetty-util-ajax-12.1.8.jar" sourcepath="jetty-util-ajax-12.1.8-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="jetty-xml-12.1.8.jar" sourcepath="jetty-xml-12.1.8-sources.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/">
 		<attributes>
 			<attribute name="module" value="true"/>
