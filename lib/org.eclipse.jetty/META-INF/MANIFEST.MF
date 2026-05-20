@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Eclipse Jetty
 Bundle-SymbolicName: org.eclipse.jetty
-Bundle-Version: 12.0.34
+Bundle-Version: 12.1.8
 Bundle-RequiredExecutionEnvironment: JavaSE-17
 Export-Package: org.eclipse.jetty.alpn.client,
  org.eclipse.jetty.client,
@@ -10,7 +10,6 @@ Export-Package: org.eclipse.jetty.alpn.client,
  org.eclipse.jetty.client.jmx,
  org.eclipse.jetty.client.transport,
  org.eclipse.jetty.client.transport.internal,
- org.eclipse.jetty.ee,
  org.eclipse.jetty.ee10.servlet,
  org.eclipse.jetty.ee10.servlet.jmx,
  org.eclipse.jetty.ee10.servlet.listener,
@@ -63,21 +62,22 @@ Export-Package: org.eclipse.jetty.alpn.client,
  org.eclipse.jetty.xml
 Require-Bundle: jakarta.servlet,
  org.slf4j
-Bundle-ClassPath: jetty-alpn-client-12.0.34.jar,
- jetty-client-12.0.34.jar,
- jetty-ee-12.0.34.jar,
- jetty-ee10-servlet-12.0.34.jar,
- jetty-ee10-servlets-12.0.34.jar,
- jetty-ee10-webapp-12.0.34.jar,
- jetty-http-12.0.34.jar,
- jetty-io-12.0.34.jar,
- jetty-jmx-12.0.34.jar,
- jetty-plus-12.0.34.jar,
- jetty-rewrite-12.0.34.jar,
- jetty-security-12.0.34.jar,
- jetty-server-12.0.34.jar,
- jetty-session-12.0.34.jar,
- jetty-util-12.0.34.jar,
- jetty-util-ajax-12.0.34.jar,
- jetty-xml-12.0.34.jar
- 
+Bundle-ClassPath: jetty-alpn-client-12.1.8.jar,
+ jetty-client-12.1.8.jar,
+ jetty-compression-common-12.1.8.jar,
+ jetty-compression-gzip-12.1.8.jar,
+ jetty-ee-webapp-12.1.8.jar,
+ jetty-ee10-servlet-12.1.8.jar,
+ jetty-ee10-servlets-12.1.8.jar,
+ jetty-ee10-webapp-12.1.8.jar,
+ jetty-http-12.1.8.jar,
+ jetty-io-12.1.8.jar,
+ jetty-jmx-12.1.8.jar,
+ jetty-plus-12.1.8.jar,
+ jetty-rewrite-12.1.8.jar,
+ jetty-security-12.1.8.jar,
+ jetty-server-12.1.8.jar,
+ jetty-session-12.1.8.jar,
+ jetty-util-12.1.8.jar,
+ jetty-util-ajax-12.1.8.jar,
+ jetty-xml-12.1.8.jar
