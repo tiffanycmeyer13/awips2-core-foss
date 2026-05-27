@@ -2,8 +2,8 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Apache Shiro
 Bundle-SymbolicName: org.apache.shiro
-Bundle-Version: 1.13.0
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Bundle-Version: 2.1.0
+Bundle-RequiredExecutionEnvironment: JavaSE-17
 Export-Package: org.apache.shiro,
  org.apache.shiro.aop,
  org.apache.shiro.authc,
@@ -14,19 +14,18 @@ Export-Package: org.apache.shiro,
  org.apache.shiro.authz.aop,
  org.apache.shiro.authz.permission,
  org.apache.shiro.cache,
- org.apache.shiro.codec,
  org.apache.shiro.concurrent,
  org.apache.shiro.config,
- org.apache.shiro.config.event,
- org.apache.shiro.crypto,
- org.apache.shiro.crypto.hash,
- org.apache.shiro.crypto.hash.format,
  org.apache.shiro.dao,
  org.apache.shiro.env,
  org.apache.shiro.event,
  org.apache.shiro.event.support,
- org.apache.shiro.io,
+ org.apache.shiro.ini,
  org.apache.shiro.jndi,
+ org.apache.shiro.lang,
+ org.apache.shiro.lang.codec,
+ org.apache.shiro.lang.io,
+ org.apache.shiro.lang.util,
  org.apache.shiro.ldap,
  org.apache.shiro.mgt,
  org.apache.shiro.realm,
@@ -43,4 +42,8 @@ Export-Package: org.apache.shiro,
  org.apache.shiro.util
 Require-Bundle: org.slf4j,
  org.apache.commons.beanutils
-Bundle-ClassPath: shiro-core-1.13.0.jar
+Bundle-ClassPath: shiro-core-2.1.0.jar,
+ shiro-config-core-2.1.0.jar,
+ shiro-cache-2.1.0.jar, 
+ shiro-lang-2.1.0.jar,
+ shiro-event-2.1.0.jar

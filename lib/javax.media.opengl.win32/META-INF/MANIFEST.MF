@@ -5,5 +5,5 @@ Bundle-SymbolicName: javax.media.opengl.win32
 Bundle-Version: 1.1.1
 Bundle-Vendor: Raytheon-bundled OSS
 Fragment-Host: javax.media.opengl
-Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-RequiredExecutionEnvironment: JavaSE-17
 Eclipse-PlatformFilter: (& (osgi.os=win32) (osgi.arch=x86))

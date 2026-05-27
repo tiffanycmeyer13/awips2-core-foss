@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Automatic-Module-Name: org.apache.commons.text
+Bundle-Name: Commons Text Plug-in
+Bundle-SymbolicName: org.apache.commons.text
+Bundle-Version: 1.13.1
+Export-Package: org.apache.commons.text,
+ org.apache.commons.text.diff,
+ org.apache.commons.text.io,
+ org.apache.commons.text.lookup,
+ org.apache.commons.text.matcher,
+ org.apache.commons.text.numbers,
+ org.apache.commons.text.similarity,
+ org.apache.commons.text.translate
+Require-Bundle: org.apache.commons.lang3
+Bundle-ClassPath: commons-text-1.13.1.jar
+Bundle-Vendor: Raytheon-bundled OSS
+Bundle-RequiredExecutionEnvironment: JavaSE-17

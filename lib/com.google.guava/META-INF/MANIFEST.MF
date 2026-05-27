@@ -2,16 +2,12 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Google Common (Guava)
 Bundle-SymbolicName: com.google.guava
-Bundle-Version: 32.0.0
+Bundle-Version: 33.5.0
 Bundle-Vendor: GOOGLE
 Bundle-ActivationPolicy: lazy
-Bundle-RequiredExecutionEnvironment: JavaSE-1.8
-Bundle-ClassPath: animal-sniffer-annotations-1.17.jar,
- error_prone_annotations-2.3.4.jar,
- failureaccess-1.0.1.jar,
- j2objc-annotations-1.3.jar,
- jsr305-3.0.2.jar,
- guava-32.0.0-jre.jar
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Bundle-ClassPath: failureaccess-1.0.3.jar,
+ guava-33.5.0-jre.jar
 Export-Package: com.google.common.annotations,
  com.google.common.base,
  com.google.common.base.internal,
@@ -28,4 +24,3 @@ Export-Package: com.google.common.annotations,
  com.google.common.reflect,
  com.google.common.util.concurrent,
  com.google.common.xml
-Require-Bundle: org.checkerframework

@@ -2,22 +2,10 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Dom4j Plug-in
 Bundle-SymbolicName: org.dom4j
-Bundle-Version: 2.1.4
-Bundle-ClassPath: jaxen-1.1.4.jar,
- .,
- dom4j-2.1.4.jar
+Bundle-Version: 2.1.3
+Bundle-ClassPath: dom4j-2.1.3.jar,
+ jaxen-2.0.0.jar
 Export-Package: org.dom4j,
- org.dom4j.bean,
- org.dom4j.datatype,
- org.dom4j.dom,
- org.dom4j.dtd,
  org.dom4j.io,
- org.dom4j.jaxb,
- org.dom4j.rule,
- org.dom4j.rule.pattern,
- org.dom4j.swing,
- org.dom4j.tree,
- org.dom4j.util,
- org.dom4j.xpath,
- org.dom4j.xpp
-Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+ org.dom4j.tree
+Bundle-RequiredExecutionEnvironment: JavaSE-17

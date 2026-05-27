@@ -7,5 +7,5 @@ Bundle-ClassPath: jakarta.activation-1.2.2.jar
 Export-Package: com.sun.activation.registries,
  com.sun.activation.viewers,
  javax.activation
-Bundle-RequiredExecutionEnvironment: JavaSE-11
+Bundle-RequiredExecutionEnvironment: JavaSE-17
 Automatic-Module-Name: javax.activation

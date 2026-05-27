@@ -1,0 +1,36 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Apache HTTP Components Client 5
+Bundle-SymbolicName: org.apache.httpcomponents.client5
+Bundle-Version: 5.6
+Export-Package: org.apache.hc.client5.http,
+ org.apache.hc.client5.http.async,
+ org.apache.hc.client5.http.async.methods,
+ org.apache.hc.client5.http.auth,
+ org.apache.hc.client5.http.classic,
+ org.apache.hc.client5.http.classic.methods,
+ org.apache.hc.client5.http.config,
+ org.apache.hc.client5.http.cookie,
+ org.apache.hc.client5.http.entity,
+ org.apache.hc.client5.http.entity.mime,
+ org.apache.hc.client5.http.impl,
+ org.apache.hc.client5.http.impl.async,
+ org.apache.hc.client5.http.impl.auth,
+ org.apache.hc.client5.http.impl.classic,
+ org.apache.hc.client5.http.impl.cookie,
+ org.apache.hc.client5.http.impl.io,
+ org.apache.hc.client5.http.impl.nio,
+ org.apache.hc.client5.http.impl.routing,
+ org.apache.hc.client5.http.io,
+ org.apache.hc.client5.http.nio,
+ org.apache.hc.client5.http.protocol,
+ org.apache.hc.client5.http.psl,
+ org.apache.hc.client5.http.routing,
+ org.apache.hc.client5.http.socket,
+ org.apache.hc.client5.http.ssl,
+ org.apache.hc.client5.http.utils
+Require-Bundle: org.slf4j,
+ org.apache.httpcomponents.core5;visibility:=reexport
+Bundle-ClassPath: httpclient5-5.6.jar
+Bundle-Vendor: Raytheon-bundled OSS
+Bundle-RequiredExecutionEnvironment: JavaSE-17

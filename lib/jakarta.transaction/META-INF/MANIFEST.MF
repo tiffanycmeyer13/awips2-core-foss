@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Automatic-Module-Name: jakarta.transaction
+Bundle-Name: Jakarta Transaction API Plug-in
+Bundle-SymbolicName: jakarta.transaction
+Bundle-Vendor: Raytheon-bundled OSS
+Bundle-Version: 2.0.1
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Bundle-ClassPath: jakarta.transaction-api-2.0.1.jar
+Export-Package: jakarta.transaction
