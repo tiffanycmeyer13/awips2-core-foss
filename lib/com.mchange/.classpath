@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry exported="true" kind="lib" path="c3p0-0.9.5.5.jar" sourcepath="c3p0-0.9.5.5-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="mchange-commons-java-0.2.19.jar" sourcepath="mchange-commons-java-0.2.19-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="mchange-commons-java-0.4.0.jar" sourcepath="mchange-commons-java-0.4.0-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="c3p0-0.12.0.jar" sourcepath="c3p0-0.12.0-sources.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>

@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry exported="true" kind="lib" path="spring-aop-5.3.39.jar" sourcepath="spring-aop-5.3.39-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-beans-5.3.39.jar" sourcepath="spring-beans-5.3.39-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-context-5.3.39.jar" sourcepath="spring-context-5.3.39-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-context-support-5.3.39.jar" sourcepath="spring-context-support-5.3.39-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-core-5.3.39.jar" sourcepath="spring-core-5.3.39-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-expression-5.3.39.jar" sourcepath="spring-expression-5.3.39-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-jcl-5.3.39.jar" sourcepath="spring-jcl-5.3.39-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-jdbc-5.3.39.jar" sourcepath="spring-jdbc-5.3.39-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-jms-5.3.39.jar" sourcepath="spring-jms-5.3.39-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-messaging-5.3.39.jar" sourcepath="spring-messaging-5.3.39-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-orm-5.3.39.jar" sourcepath="spring-orm-5.3.39-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-tx-5.3.39.jar" sourcepath="spring-tx-5.3.39-sources.jar"/>
-	<classpathentry exported="true" kind="lib" path="spring-web-5.3.39.jar" sourcepath="spring-web-5.3.39-sources.jar"/>
+	<classpathentry kind="lib" path="antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="micrometer-observation-1.15.10.jar" sourcepath="micrometer-observation-1.15.10-sources.jar"/>
+	<classpathentry kind="lib" path="micrometer-commons-1.15.10.jar" sourcepath="micrometer-commons-1.15.10-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-aop-6.2.17.jar" sourcepath="spring-aop-6.2.17-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-beans-6.2.17.jar" sourcepath="spring-beans-6.2.17-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-context-6.2.17.jar" sourcepath="spring-context-6.2.17-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-context-support-6.2.17.jar" sourcepath="spring-context-support-6.2.17-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-core-6.2.17.jar" sourcepath="spring-core-6.2.17-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-expression-6.2.17.jar" sourcepath="spring-expression-6.2.17-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-jcl-6.2.17.jar" sourcepath="spring-jcl-6.2.17-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-jdbc-6.2.17.jar" sourcepath="spring-jdbc-6.2.17-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-jms-6.2.17.jar" sourcepath="spring-jms-6.2.17-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-messaging-6.2.17.jar" sourcepath="spring-messaging-6.2.17-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-orm-6.2.17.jar" sourcepath="spring-orm-6.2.17-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-tx-6.2.17.jar" sourcepath="spring-tx-6.2.17-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="spring-web-6.2.17.jar" sourcepath="spring-web-6.2.17-sources.jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
-	<classpathentry kind="lib" path="antlr-2.7.7.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

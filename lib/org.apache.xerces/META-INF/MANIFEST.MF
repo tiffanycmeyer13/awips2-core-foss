@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: Xerces
 Bundle-SymbolicName: org.apache.xerces
 Bundle-Version: 2.12.2
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-17
 Bundle-ClassPath: xercesImpl-2.12.2.jar,
  xml-apis-2.0.2.jar
 Export-Package: org.apache.html.dom,

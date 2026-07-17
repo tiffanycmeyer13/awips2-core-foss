@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Java Web Services (JWS)
+Automatic-Module-Name: jakarta.jws
+Bundle-SymbolicName: jakarta.jws
+Bundle-Version: 3.0.0
+Bundle-RequiredExecutionEnvironment: JavaSE-17
+Bundle-ClassPath: jakarta.jws-api-3.0.0.jar
+Export-Package: jakarta.jws,
+ jakarta.jws.soap
