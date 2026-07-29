@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Jogl
 Bundle-SymbolicName: com.jogamp.jogl
-Bundle-Version: 2.3.2
+Bundle-Version: 2.5.0
 Bundle-ClassPath: gluegen-rt.jar,
  jogl-all.jar
 Bundle-Vendor: jogamp.org
@@ -79,9 +79,6 @@ Export-Package: com.jogamp.common,
  jogamp.graph.font.typecast.ot,
  jogamp.graph.font.typecast.ot.mac,
  jogamp.graph.font.typecast.ot.table,
- jogamp.graph.font.typecast.t2,
- jogamp.graph.font.typecast.tt.engine,
- jogamp.graph.geom.plane,
  jogamp.nativewindow,
  jogamp.nativewindow.awt,
  jogamp.nativewindow.jawt,
@@ -122,7 +119,6 @@ Export-Package: com.jogamp.common,
  jogamp.opengl.glu.tessellator,
  jogamp.opengl.macosx.cgl,
  jogamp.opengl.macosx.cgl.awt,
- jogamp.opengl.openal.av,
  jogamp.opengl.util,
  jogamp.opengl.util.av,
  jogamp.opengl.util.av.impl,
